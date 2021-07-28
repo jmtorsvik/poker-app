@@ -1,0 +1,4812 @@
+<<<Table TABLE | Blinds 5/10>>>
+
+---START OF HAND 0---
+Players:
+  B-0(SB) 100
+  B-1(BB) 100
+  B-2(UTG) 100
+  B-3(UTG+1) 100
+  B-4(UTG+2) 100
+  B-5(LJ) 100
+  B-6(HJ) 100
+  B-7(CO) 100
+  B-8(BTN) 100
+
+PREFLOP [__ __ __ __ __]
+  B-1 bet 10
+  B-2 raised to 20
+  B-3 folded
+  B-4 called
+  B-5 raised to 30
+  B-6 folded
+  B-7 folded
+  B-8 raised to 40
+  B-0 called
+  B-1 raised to 50
+  B-2 called
+  B-4 raised to 60
+  B-5 folded
+  B-8 folded
+  B-0 called
+  B-1 folded
+  B-2 called
+
+FLOP [2c As Qd __ __]
+  B-0 bet 10
+  B-2 called
+  B-4 raised to 20
+  B-0 raised to 30
+  B-2 raised to 40
+  B-4 folded
+
+TURN [2c As Qd Tc __]
+
+RIVER [2c As Qd Tc Kc]
+
+SHOWDOWN [2c As Qd Tc Kc]
+  B-0 had [4d Kh] ("Pair")
+  B-2 had [6c 5d] ("High Card")
+
+  B-0 won 380
+  B-2 won 10
+---END OF HAND 0---
+
+
+---START OF HAND 1---
+Players:
+  B-1(SB) 50
+  B-2(BB) 10
+  B-3(UTG) 100
+  B-4(UTG+1) 20
+  B-5(UTG+2) 70
+  B-6(LJ) 100
+  B-7(HJ) 100
+  B-8(CO) 60
+  B-0(BTN) 390
+
+PREFLOP [__ __ __ __ __]
+  B-2 bet 10
+  B-3 folded
+  B-4 called
+  B-5 called
+  B-6 folded
+  B-7 called
+  B-8 called
+  B-0 folded
+  B-1 raised to 20
+  B-4 folded
+  B-5 folded
+  B-7 called
+  B-8 folded
+
+FLOP [2s 7s Ad __ __]
+  B-1 folded
+
+TURN [2s 7s Ad 3s __]
+
+RIVER [2s 7s Ad 3s Ts]
+
+SHOWDOWN [2s 7s Ad 3s Ts]
+  B-2 had [4h Kd] ("High Card")
+  B-7 had [Qd As] ("Flush")
+
+  B-7 won 80
+---END OF HAND 1---
+
+
+---START OF HAND 2---
+Players:
+  B-2(SB) 100
+  B-3(BB) 100
+  B-4(UTG) 10
+  B-5(UTG+1) 60
+  B-6(UTG+2) 100
+  B-7(LJ) 160
+  B-8(HJ) 50
+  B-0(CO) 390
+  B-1(BTN) 30
+
+PREFLOP [__ __ __ __ __]
+  B-3 bet 10
+  B-4 folded
+  B-5 called
+  B-6 called
+  B-7 raised to 20
+  B-8 raised to 30
+  B-0 called
+  B-1 folded
+  B-2 raised to 40
+  B-3 folded
+  B-5 folded
+  B-6 raised to 50
+  B-7 folded
+  B-0 raised to 60
+  B-2 folded
+  B-6 folded
+  B-8 called
+
+FLOP [3c Jc Td __ __]
+
+TURN [3c Jc Td Js __]
+
+RIVER [3c Jc Td Js Ks]
+
+SHOWDOWN [3c Jc Td Js Ks]
+  B-8 had [3d Kd] ("Two pair")
+  B-0 had [3h 7c] ("Two pair")
+
+  B-8 won 230
+  B-0 won 10
+---END OF HAND 2---
+
+
+---START OF HAND 3---
+Players:
+  B-3(SB) 90
+  B-4(BB) 10
+  B-5(UTG) 50
+  B-6(UTG+1) 50
+  B-7(UTG+2) 140
+  B-8(LJ) 230
+  B-0(HJ) 340
+  B-1(CO) 30
+  B-2(BTN) 60
+
+PREFLOP [__ __ __ __ __]
+  B-4 bet 10
+  B-5 folded
+  B-6 folded
+  B-7 folded
+  B-8 raised to 20
+  B-0 raised to 30
+  B-2 raised to 40
+  B-3 raised to 50
+  B-8 raised to 60
+  B-0 called
+  B-1 called
+  B-2 called
+  B-3 raised to 70
+  B-8 called
+  B-0 raised to 80
+  B-3 folded
+  B-8 called
+
+FLOP [Jd Ah 3c __ __]
+  B-8 folded
+
+TURN [Jd Ah 3c 4s __]
+
+RIVER [Jd Ah 3c 4s Jh]
+
+SHOWDOWN [Jd Ah 3c 4s Jh]
+  B-4 had [Qc 5c] ("Pair")
+  B-0 had [5s 7d] ("Pair")
+  B-1 had [Ac 4h] ("Two pair")
+  B-2 had [8c Ts] ("Pair")
+
+  B-1 won 160
+  B-4 won 60
+  B-2 won 110
+---END OF HAND 3---
+
+
+---START OF HAND 4---
+Players:
+  B-4(SB) 60
+  B-5(BB) 50
+  B-6(UTG) 50
+  B-7(UTG+1) 140
+  B-8(UTG+2) 150
+  B-0(LJ) 260
+  B-1(HJ) 160
+  B-2(CO) 110
+  B-3(BTN) 20
+
+PREFLOP [__ __ __ __ __]
+  B-5 bet 10
+  B-6 folded
+  B-7 folded
+  B-8 folded
+  B-0 called
+  B-1 called
+  B-2 folded
+  B-3 called
+  B-4 called
+  B-5 raised to 20
+  B-0 raised to 30
+  B-1 called
+  B-3 folded
+  B-4 called
+  B-5 folded
+
+FLOP [4s Qc Kh __ __]
+  B-4 folded
+  B-0 folded
+  B-1 won 120
+---END OF HAND 4---
+
+
+---START OF HAND 5---
+Players:
+  B-5(SB) 30
+  B-6(BB) 50
+  B-7(UTG) 140
+  B-8(UTG+1) 150
+  B-0(UTG+2) 230
+  B-1(LJ) 250
+  B-2(HJ) 110
+  B-3(CO) 10
+  B-4(BTN) 30
+
+PREFLOP [__ __ __ __ __]
+  B-6 bet 10
+  B-7 called
+  B-8 raised to 20
+  B-0 raised to 30
+  B-1 called
+  B-2 raised to 40
+  B-3 called
+  B-4 called
+  B-5 folded
+  B-6 called
+  B-7 called
+  B-8 raised to 50
+  B-0 folded
+  B-1 folded
+  B-2 called
+  B-6 called
+  B-7 folded
+
+FLOP [Kh 5h Ts __ __]
+  B-8 checked
+  B-2 folded
+
+TURN [Kh 5h Ts Ks __]
+
+RIVER [Kh 5h Ts Ks 4c]
+
+SHOWDOWN [Kh 5h Ts Ks 4c]
+  B-6 had [6c 8c] ("Pair")
+  B-8 had [3h 8s] ("Pair")
+  B-3 had [Qh Js] ("Pair")
+  B-4 had [2h Td] ("Two pair")
+
+  B-4 won 225
+  B-3 won 70
+---END OF HAND 5---
+
+
+---START OF HAND 6---
+Players:
+  B-6(SB) 100
+  B-7(BB) 100
+  B-8(UTG) 100
+  B-0(UTG+1) 200
+  B-1(UTG+2) 220
+  B-2(LJ) 60
+  B-3(HJ) 70
+  B-4(CO) 225
+  B-5(BTN) 25
+
+PREFLOP [__ __ __ __ __]
+  B-7 bet 10
+  B-8 folded
+  B-0 raised to 20
+  B-1 raised to 30
+  B-2 folded
+  B-3 raised to 40
+  B-4 called
+  B-5 called
+  B-6 folded
+  B-7 called
+  B-0 folded
+  B-1 called
+
+FLOP [Jh 7d Jd __ __]
+  B-7 checked
+  B-1 bet 10
+  B-3 called
+  B-4 called
+  B-7 raised to 20
+  B-1 raised to 30
+  B-3 folded
+  B-4 called
+  B-7 called
+
+TURN [Jh 7d Jd Kh __]
+  B-7 checked
+  B-1 folded
+  B-4 checked
+
+RIVER [Jh 7d Jd Kh Ks]
+  B-7 checked
+  B-4 checked
+
+SHOWDOWN [Jh 7d Jd Kh Ks]
+  B-7 had [2d Ts] ("Two pair")
+  B-4 had [Ad Th] ("Two pair")
+  B-5 had [2h Qd] ("Two pair")
+
+  B-4 won 310
+---END OF HAND 6---
+
+
+---START OF HAND 7---
+Players:
+  B-7(SB) 30
+  B-8(BB) 100
+  B-0(UTG) 180
+  B-1(UTG+1) 150
+  B-2(UTG+2) 60
+  B-3(LJ) 20
+  B-4(HJ) 465
+  B-5(CO) 100
+  B-6(BTN) 95
+
+PREFLOP [__ __ __ __ __]
+  B-8 bet 10
+  B-0 folded
+  B-1 called
+  B-2 raised to 20
+  B-3 called
+  B-4 raised to 30
+  B-5 folded
+  B-6 called
+  B-7 folded
+  B-8 folded
+  B-1 called
+  B-2 called
+
+FLOP [5c Ah 4s __ __]
+  B-1 checked
+  B-2 bet 10
+  B-4 folded
+  B-6 folded
+  B-1 called
+
+TURN [5c Ah 4s 5h __]
+  B-1 folded
+
+RIVER [5c Ah 4s 5h Kh]
+
+SHOWDOWN [5c Ah 4s 5h Kh]
+  B-2 had [Jh 6d] ("Pair")
+  B-3 had [Tc Jd] ("Pair")
+
+  B-2 won 88
+  B-3 won 87
+---END OF HAND 7---
+
+
+---START OF HAND 8---
+Players:
+  B-8(SB) 90
+  B-0(BB) 180
+  B-1(UTG) 110
+  B-2(UTG+1) 108
+  B-3(UTG+2) 87
+  B-4(LJ) 435
+  B-5(HJ) 100
+  B-6(CO) 65
+  B-7(BTN) 25
+
+PREFLOP [__ __ __ __ __]
+  B-0 bet 10
+  B-1 folded
+  B-2 folded
+  B-3 raised to 20
+  B-4 folded
+  B-5 raised to 30
+  B-6 raised to 40
+  B-7 called
+  B-8 called
+  B-0 called
+  B-3 raised to 50
+  B-5 called
+  B-6 folded
+  B-8 raised to 60
+  B-0 folded
+  B-3 called
+  B-5 folded
+
+FLOP [Ac 7c Ts __ __]
+  B-8 folded
+
+TURN [Ac 7c Ts 4d __]
+
+RIVER [Ac 7c Ts 4d 5d]
+
+SHOWDOWN [Ac 7c Ts 4d 5d]
+  B-3 had [9c 7h] ("Pair")
+  B-7 had [Qh Tc] ("Pair")
+
+  B-7 won 150
+  B-3 won 125
+---END OF HAND 8---
+
+
+---START OF HAND 9---
+Players:
+  B-0(SB) 140
+  B-1(BB) 110
+  B-2(UTG) 108
+  B-3(UTG+1) 152
+  B-4(UTG+2) 435
+  B-5(LJ) 50
+  B-6(HJ) 25
+  B-7(CO) 150
+  B-8(BTN) 30
+
+PREFLOP [__ __ __ __ __]
+  B-1 bet 10
+  B-2 called
+  B-3 called
+  B-4 called
+  B-5 folded
+  B-6 raised to 20
+  B-7 folded
+  B-8 folded
+  B-0 raised to 30
+  B-1 raised to 40
+  B-2 raised to 50
+  B-3 folded
+  B-4 raised to 60
+  B-6 folded
+  B-0 folded
+  B-1 raised to 70
+  B-2 folded
+  B-4 folded
+  B-1 won 240
+---END OF HAND 9---
+
+
+---START OF HAND 10---
+Players:
+  B-1(SB) 280
+  B-2(BB) 58
+  B-3(UTG) 142
+  B-4(UTG+1) 375
+  B-5(UTG+2) 50
+  B-6(LJ) 5
+  B-7(HJ) 150
+  B-8(CO) 30
+  B-0(BTN) 110
+
+PREFLOP [__ __ __ __ __]
+  B-2 bet 10
+  B-3 raised to 20
+  B-4 folded
+  B-5 folded
+  B-6 called
+  B-7 called
+  B-8 called
+  B-0 folded
+  B-1 folded
+  B-2 raised to 30
+  B-3 folded
+  B-7 raised to 40
+  B-8 folded
+  B-2 raised to 50
+  B-7 raised to 60
+  B-2 called
+
+FLOP [5s Jd 7h __ __]
+
+TURN [5s Jd 7h 7d __]
+
+RIVER [5s Jd 7h 7d 7s]
+
+SHOWDOWN [5s Jd 7h 7d 7s]
+  B-2 had [2c 6h] ("Three of a kind")
+  B-6 had [3d 6d] ("Three of a kind")
+  B-7 had [6c Js] ("Full house")
+
+  B-7 won 168
+---END OF HAND 10---
+
+
+---START OF HAND 11---
+Players:
+  B-2(SB) 100
+  B-3(BB) 122
+  B-4(UTG) 375
+  B-5(UTG+1) 50
+  B-6(UTG+2) 100
+  B-7(LJ) 258
+  B-8(HJ) 10
+  B-0(CO) 110
+  B-1(BTN) 275
+
+PREFLOP [__ __ __ __ __]
+  B-3 bet 10
+  B-4 called
+  B-5 called
+  B-6 called
+  B-7 called
+  B-8 called
+  B-0 called
+  B-1 folded
+  B-2 folded
+  B-3 folded
+
+FLOP [Kd Tc 9s __ __]
+  B-4 folded
+  B-5 folded
+  B-6 checked
+  B-7 bet 10
+  B-0 called
+  B-6 called
+
+TURN [Kd Tc 9s 5s __]
+  B-6 folded
+  B-7 checked
+  B-0 checked
+
+RIVER [Kd Tc 9s 5s 4d]
+  B-7 checked
+  B-0 folded
+
+SHOWDOWN [Kd Tc 9s 5s 4d]
+  B-7 had [As 8h] ("High Card")
+  B-8 had [7d 9h] ("Pair")
+
+  B-8 won 75
+  B-7 won 30
+---END OF HAND 11---
+
+
+---START OF HAND 12---
+Players:
+  B-3(SB) 112
+  B-4(BB) 365
+  B-5(UTG) 40
+  B-6(UTG+1) 80
+  B-7(UTG+2) 268
+  B-8(LJ) 75
+  B-0(HJ) 90
+  B-1(CO) 275
+  B-2(BTN) 95
+
+PREFLOP [__ __ __ __ __]
+  B-4 bet 10
+  B-5 folded
+  B-6 folded
+  B-7 raised to 20
+  B-8 raised to 30
+  B-0 folded
+  B-1 folded
+  B-2 called
+  B-3 raised to 40
+  B-4 called
+  B-7 raised to 50
+  B-8 folded
+  B-2 folded
+  B-3 folded
+  B-4 folded
+  B-7 won 190
+---END OF HAND 12---
+
+
+---START OF HAND 13---
+Players:
+  B-4(SB) 325
+  B-5(BB) 40
+  B-6(UTG) 80
+  B-7(UTG+1) 408
+  B-8(UTG+2) 45
+  B-0(LJ) 90
+  B-1(HJ) 275
+  B-2(CO) 65
+  B-3(BTN) 72
+
+PREFLOP [__ __ __ __ __]
+  B-5 bet 10
+  B-6 folded
+  B-7 folded
+  B-8 called
+  B-0 called
+  B-1 folded
+  B-2 raised to 20
+  B-3 called
+  B-4 called
+  B-5 raised to 30
+  B-8 raised to 40
+  B-0 folded
+  B-2 raised to 50
+  B-3 raised to 60
+  B-4 folded
+  B-5 folded
+  B-8 folded
+  B-2 raised to 65
+  B-3 folded
+  B-2 won 225
+---END OF HAND 13---
+
+
+---START OF HAND 14---
+Players:
+  B-5(SB) 10
+  B-6(BB) 80
+  B-7(UTG) 408
+  B-8(UTG+1) 5
+  B-0(UTG+2) 80
+  B-1(LJ) 275
+  B-2(HJ) 225
+  B-3(CO) 12
+  B-4(BTN) 305
+
+PREFLOP [__ __ __ __ __]
+  B-6 bet 10
+  B-7 called
+  B-8 called
+  B-0 folded
+  B-1 folded
+  B-2 folded
+  B-3 raised to 12
+  B-4 raised to 22
+  B-5 folded
+  B-6 called
+  B-7 folded
+
+FLOP [9c 2d 8d __ __]
+  B-6 bet 10
+  B-4 called
+
+TURN [9c 2d 8d 2h __]
+  B-6 checked
+  B-4 bet 10
+  B-6 folded
+
+RIVER [9c 2d 8d 2h Td]
+
+SHOWDOWN [9c 2d 8d 2h Td]
+  B-8 had [Qs 3d] ("Pair")
+  B-3 had [6h 6d] ("Two pair")
+  B-4 had [5d Jd] ("Flush")
+
+  B-4 won 106
+---END OF HAND 14---
+
+
+---START OF HAND 15---
+Players:
+  B-6(SB) 48
+  B-7(BB) 398
+  B-8(UTG) 100
+  B-0(UTG+1) 80
+  B-1(UTG+2) 275
+  B-2(LJ) 225
+  B-3(HJ) 100
+  B-4(CO) 369
+  B-5(BTN) 5
+
+PREFLOP [__ __ __ __ __]
+  B-7 bet 10
+  B-8 folded
+  B-0 folded
+  B-1 raised to 20
+  B-2 raised to 30
+  B-3 called
+  B-4 raised to 40
+  B-5 called
+  B-6 folded
+  B-7 raised to 50
+  B-1 called
+  B-2 raised to 60
+  B-3 raised to 70
+  B-4 called
+  B-7 folded
+  B-1 raised to 80
+  B-2 folded
+  B-3 called
+  B-4 folded
+
+FLOP [9c Qd Qh __ __]
+  B-1 folded
+
+TURN [9c Qd Qh 8d __]
+
+RIVER [9c Qd Qh 8d 5s]
+
+SHOWDOWN [9c Qd Qh 8d 5s]
+  B-3 had [2c Ts] ("Pair")
+  B-5 had [9s 6s] ("Two pair")
+
+  B-5 won 35
+  B-3 won 315
+---END OF HAND 15---
+
+
+---START OF HAND 16---
+Players:
+  B-7(SB) 348
+  B-8(BB) 100
+  B-0(UTG) 80
+  B-1(UTG+1) 195
+  B-2(UTG+2) 165
+  B-3(LJ) 335
+  B-4(HJ) 299
+  B-5(CO) 35
+  B-6(BTN) 43
+
+PREFLOP [__ __ __ __ __]
+  B-8 bet 10
+  B-0 called
+  B-1 folded
+  B-2 called
+  B-3 called
+  B-4 called
+  B-5 folded
+  B-6 called
+  B-7 folded
+  B-8 folded
+
+FLOP [Ac 5d 4s __ __]
+  B-0 checked
+  B-2 bet 10
+  B-3 raised to 20
+  B-4 folded
+  B-6 raised to 30
+  B-0 raised to 40
+  B-2 called
+  B-3 folded
+  B-6 called
+
+TURN [Ac 5d 4s Kd __]
+  B-0 checked
+  B-2 bet 10
+  B-0 raised to 20
+  B-2 folded
+
+RIVER [Ac 5d 4s Kd 3h]
+
+SHOWDOWN [Ac 5d 4s Kd 3h]
+  B-0 had [Ad 5c] ("Two pair")
+  B-6 had [9s 2h] ("High Card")
+
+  B-0 won 228
+---END OF HAND 16---
+
+
+---START OF HAND 17---
+Players:
+  B-8(SB) 90
+  B-0(BB) 238
+  B-1(UTG) 195
+  B-2(UTG+1) 105
+  B-3(UTG+2) 305
+  B-4(LJ) 289
+  B-5(HJ) 35
+  B-6(CO) 100
+  B-7(BTN) 343
+
+PREFLOP [__ __ __ __ __]
+  B-0 bet 10
+  B-1 folded
+  B-2 called
+  B-3 folded
+  B-4 raised to 20
+  B-5 folded
+  B-6 called
+  B-7 called
+  B-8 raised to 30
+  B-0 raised to 40
+  B-2 raised to 50
+  B-4 folded
+  B-6 folded
+  B-7 called
+  B-8 called
+  B-0 raised to 60
+  B-2 raised to 70
+  B-7 raised to 80
+  B-8 raised to 90
+  B-0 raised to 100
+  B-2 folded
+  B-7 called
+
+FLOP [6c 2h Js __ __]
+  B-0 folded
+
+TURN [6c 2h Js Ts __]
+
+RIVER [6c 2h Js Ts 4h]
+
+SHOWDOWN [6c 2h Js Ts 4h]
+  B-8 had [6s 4s] ("Two pair")
+  B-7 had [4c 9c] ("Pair")
+
+  B-8 won 380
+  B-7 won 20
+---END OF HAND 17---
+
+
+---START OF HAND 18---
+Players:
+  B-0(SB) 138
+  B-1(BB) 195
+  B-2(UTG) 35
+  B-3(UTG+1) 305
+  B-4(UTG+2) 269
+  B-5(LJ) 35
+  B-6(HJ) 80
+  B-7(CO) 263
+  B-8(BTN) 380
+
+PREFLOP [__ __ __ __ __]
+  B-1 bet 10
+  B-2 folded
+  B-3 raised to 20
+  B-4 called
+  B-5 raised to 30
+  B-6 folded
+  B-7 called
+  B-8 folded
+  B-0 folded
+  B-1 raised to 40
+  B-3 raised to 50
+  B-4 called
+  B-5 folded
+  B-7 raised to 60
+  B-1 raised to 70
+  B-3 raised to 80
+  B-4 folded
+  B-7 called
+  B-1 raised to 90
+  B-3 called
+  B-7 raised to 100
+  B-1 raised to 110
+  B-3 folded
+  B-7 raised to 120
+  B-1 raised to 130
+  B-7 raised to 140
+  B-1 called
+
+FLOP [9h Ks Kh __ __]
+  B-1 checked
+  B-7 checked
+
+TURN [9h Ks Kh 9s __]
+  B-1 folded
+  B-7 won 455
+---END OF HAND 18---
+
+
+---START OF HAND 19---
+Players:
+  B-1(SB) 55
+  B-2(BB) 35
+  B-3(UTG) 215
+  B-4(UTG+1) 219
+  B-5(UTG+2) 5
+  B-6(LJ) 80
+  B-7(HJ) 578
+  B-8(CO) 380
+  B-0(BTN) 133
+
+PREFLOP [__ __ __ __ __]
+  B-2 bet 10
+  B-3 raised to 20
+  B-4 called
+  B-5 folded
+  B-6 called
+  B-7 called
+  B-8 called
+  B-0 raised to 30
+  B-1 called
+  B-2 folded
+  B-3 called
+  B-4 called
+  B-6 folded
+  B-7 called
+  B-8 raised to 40
+  B-0 raised to 50
+  B-1 raised to 55
+  B-3 folded
+  B-4 called
+  B-7 called
+  B-8 folded
+  B-0 called
+
+FLOP [2d Qd 7d __ __]
+  B-4 bet 10
+  B-7 raised to 20
+  B-0 folded
+  B-4 raised to 30
+  B-7 folded
+
+TURN [2d Qd 7d 4s __]
+
+RIVER [2d Qd 7d 4s Jd]
+
+SHOWDOWN [2d Qd 7d 4s Jd]
+  B-1 had [8s 3s] ("High Card")
+  B-4 had [4c Ts] ("Pair")
+
+  B-4 won 370
+---END OF HAND 19---
+
+
+---START OF HAND 20---
+Players:
+  B-2(SB) 25
+  B-3(BB) 185
+  B-4(UTG) 504
+  B-5(UTG+1) 5
+  B-6(UTG+2) 60
+  B-7(LJ) 503
+  B-8(HJ) 340
+  B-0(CO) 78
+  B-1(BTN) 100
+
+PREFLOP [__ __ __ __ __]
+  B-3 bet 10
+  B-4 raised to 20
+  B-5 called
+  B-6 raised to 30
+  B-7 called
+  B-8 called
+  B-0 raised to 40
+  B-1 called
+  B-2 called
+  B-3 raised to 50
+  B-4 called
+  B-6 called
+  B-7 raised to 60
+  B-8 raised to 70
+  B-0 folded
+  B-1 folded
+  B-3 folded
+  B-4 folded
+  B-6 called
+  B-7 folded
+
+FLOP [8d Qd 2c __ __]
+
+TURN [8d Qd 2c 4d __]
+
+RIVER [8d Qd 2c 4d Ad]
+
+SHOWDOWN [8d Qd 2c 4d Ad]
+  B-2 had [4s Td] ("Flush")
+  B-5 had [As Tc] ("Pair")
+  B-6 had [Qh Qs] ("Three of a kind")
+  B-8 had [Th Jh] ("High Card")
+
+  B-2 won 205
+  B-6 won 195
+---END OF HAND 20---
+
+
+---START OF HAND 21---
+Players:
+  B-3(SB) 135
+  B-4(BB) 454
+  B-5(UTG) 100
+  B-6(UTG+1) 195
+  B-7(UTG+2) 443
+  B-8(LJ) 270
+  B-0(HJ) 38
+  B-1(CO) 60
+  B-2(BTN) 205
+
+PREFLOP [__ __ __ __ __]
+  B-4 bet 10
+  B-5 folded
+  B-6 folded
+  B-7 called
+  B-8 called
+  B-0 folded
+  B-1 called
+  B-2 raised to 20
+  B-3 called
+  B-4 called
+  B-7 folded
+  B-8 called
+  B-1 called
+
+FLOP [2d As 6s __ __]
+  B-3 checked
+  B-4 bet 10
+  B-8 folded
+  B-1 raised to 20
+  B-2 folded
+  B-3 folded
+  B-4 raised to 30
+  B-1 raised to 40
+  B-4 folded
+  B-1 won 180
+---END OF HAND 21---
+
+
+---START OF HAND 22---
+Players:
+  B-4(SB) 404
+  B-5(BB) 100
+  B-6(UTG) 195
+  B-7(UTG+1) 433
+  B-8(UTG+2) 250
+  B-0(LJ) 38
+  B-1(HJ) 180
+  B-2(CO) 185
+  B-3(BTN) 115
+
+PREFLOP [__ __ __ __ __]
+  B-5 bet 10
+  B-6 called
+  B-7 folded
+  B-8 raised to 20
+  B-0 folded
+  B-1 raised to 30
+  B-2 folded
+  B-3 called
+  B-4 folded
+  B-5 raised to 40
+  B-6 called
+  B-8 raised to 50
+  B-1 raised to 60
+  B-3 folded
+  B-5 called
+  B-6 raised to 70
+  B-8 called
+  B-1 folded
+  B-5 raised to 80
+  B-6 called
+  B-8 raised to 90
+  B-5 folded
+  B-6 called
+
+FLOP [As Tc 9s __ __]
+  B-6 folded
+  B-8 won 355
+---END OF HAND 22---
+
+
+---START OF HAND 23---
+Players:
+  B-5(SB) 20
+  B-6(BB) 105
+  B-7(UTG) 433
+  B-8(UTG+1) 515
+  B-0(UTG+2) 38
+  B-1(LJ) 120
+  B-2(HJ) 185
+  B-3(CO) 85
+  B-4(BTN) 399
+
+PREFLOP [__ __ __ __ __]
+  B-6 bet 10
+  B-7 called
+  B-8 folded
+  B-0 raised to 20
+  B-1 raised to 30
+  B-2 folded
+  B-3 raised to 40
+  B-4 folded
+  B-5 called
+  B-6 raised to 50
+  B-7 raised to 60
+  B-0 folded
+  B-1 called
+  B-3 folded
+  B-6 folded
+
+FLOP [Jc As Td __ __]
+  B-7 checked
+  B-1 checked
+
+TURN [Jc As Td Th __]
+  B-7 folded
+
+RIVER [Jc As Td Th Kh]
+
+SHOWDOWN [Jc As Td Th Kh]
+  B-5 had [6c 6h] ("Two pair")
+  B-1 had [4h Ac] ("Two pair")
+
+  B-1 won 250
+---END OF HAND 23---
+
+
+---START OF HAND 24---
+Players:
+  B-6(SB) 55
+  B-7(BB) 373
+  B-8(UTG) 515
+  B-0(UTG+1) 18
+  B-1(UTG+2) 310
+  B-2(LJ) 185
+  B-3(HJ) 45
+  B-4(CO) 399
+  B-5(BTN) 100
+
+PREFLOP [__ __ __ __ __]
+  B-7 bet 10
+  B-8 raised to 20
+  B-0 called
+  B-1 folded
+  B-2 raised to 30
+  B-3 raised to 40
+  B-4 folded
+  B-5 raised to 50
+  B-6 raised to 55
+  B-7 raised to 65
+  B-8 raised to 75
+  B-2 raised to 85
+  B-3 called
+  B-5 called
+  B-7 folded
+  B-8 called
+
+FLOP [Ks Qh 8c __ __]
+  B-8 folded
+  B-2 checked
+  B-5 folded
+
+TURN [Ks Qh 8c Tc __]
+
+RIVER [Ks Qh 8c Tc 2c]
+
+SHOWDOWN [Ks Qh 8c Tc 2c]
+  B-6 had [Ac 4d] ("High Card")
+  B-0 had [4c 8s] ("Pair")
+  B-2 had [Qc 4h] ("Pair")
+  B-3 had [Kd 8h] ("Two pair")
+
+  B-3 won 288
+  B-2 won 150
+---END OF HAND 24---
+
+
+---START OF HAND 25---
+Players:
+  B-7(SB) 308
+  B-8(BB) 430
+  B-0(UTG) 100
+  B-1(UTG+1) 310
+  B-2(UTG+2) 250
+  B-3(LJ) 288
+  B-4(HJ) 399
+  B-5(CO) 15
+  B-6(BTN) 100
+
+PREFLOP [__ __ __ __ __]
+  B-8 bet 10
+  B-0 raised to 20
+  B-1 called
+  B-2 raised to 30
+  B-3 called
+  B-4 called
+  B-5 called
+  B-6 folded
+  B-7 raised to 40
+  B-8 called
+  B-0 raised to 50
+  B-1 folded
+  B-2 folded
+  B-3 folded
+  B-4 called
+  B-7 raised to 60
+  B-8 raised to 70
+  B-0 called
+  B-4 raised to 80
+  B-7 folded
+  B-8 raised to 90
+  B-0 called
+  B-4 called
+
+FLOP [2c 6d Ad __ __]
+  B-8 folded
+  B-0 folded
+
+TURN [2c 6d Ad 6c __]
+
+RIVER [2c 6d Ad 6c Kd]
+
+SHOWDOWN [2c 6d Ad 6c Kd]
+  B-4 had [Qh 9c] ("Pair")
+  B-5 had [3s 2d] ("Two pair")
+
+  B-5 won 120
+  B-4 won 305
+---END OF HAND 25---
+
+
+---START OF HAND 26---
+Players:
+  B-8(SB) 340
+  B-0(BB) 10
+  B-1(UTG) 290
+  B-2(UTG+1) 220
+  B-3(UTG+2) 258
+  B-4(LJ) 614
+  B-5(HJ) 120
+  B-6(CO) 100
+  B-7(BTN) 248
+
+PREFLOP [__ __ __ __ __]
+  B-0 bet 10
+  B-1 raised to 20
+  B-2 raised to 30
+  B-3 folded
+  B-4 called
+  B-5 raised to 40
+  B-6 raised to 50
+  B-7 folded
+  B-8 folded
+  B-1 called
+  B-2 raised to 60
+  B-4 raised to 70
+  B-5 raised to 80
+  B-6 called
+  B-1 folded
+  B-2 called
+  B-4 folded
+
+FLOP [9d Qh 8c __ __]
+  B-2 checked
+  B-5 folded
+  B-6 checked
+
+TURN [9d Qh 8c 4d __]
+  B-2 folded
+
+RIVER [9d Qh 8c 4d Jh]
+
+SHOWDOWN [9d Qh 8c 4d Jh]
+  B-0 had [2h 9c] ("Pair")
+  B-6 had [8d Ac] ("Pair")
+
+  B-0 won 65
+  B-6 won 310
+---END OF HAND 26---
+
+
+---START OF HAND 27---
+Players:
+  B-0(SB) 65
+  B-1(BB) 240
+  B-2(UTG) 140
+  B-3(UTG+1) 258
+  B-4(UTG+2) 544
+  B-5(LJ) 40
+  B-6(HJ) 330
+  B-7(CO) 248
+  B-8(BTN) 335
+
+PREFLOP [__ __ __ __ __]
+  B-1 bet 10
+  B-2 folded
+  B-3 called
+  B-4 called
+  B-5 called
+  B-6 raised to 20
+  B-7 called
+  B-8 folded
+  B-0 folded
+  B-1 called
+  B-3 folded
+  B-4 folded
+  B-5 called
+
+FLOP [4h Qc 8h __ __]
+  B-1 checked
+  B-5 bet 10
+  B-6 called
+  B-7 raised to 20
+  B-1 raised to 30
+  B-5 called
+  B-6 raised to 40
+  B-7 folded
+  B-1 raised to 50
+  B-6 folded
+
+TURN [4h Qc 8h Qh __]
+
+RIVER [4h Qc 8h Qh 9d]
+
+SHOWDOWN [4h Qc 8h Qh 9d]
+  B-1 had [Ts 4d] ("Two pair")
+  B-5 had [7d Th] ("Pair")
+
+  B-1 won 235
+---END OF HAND 27---
+
+
+---START OF HAND 28---
+Players:
+  B-1(SB) 405
+  B-2(BB) 140
+  B-3(UTG) 248
+  B-4(UTG+1) 534
+  B-5(UTG+2) 100
+  B-6(LJ) 270
+  B-7(HJ) 208
+  B-8(CO) 335
+  B-0(BTN) 60
+
+PREFLOP [__ __ __ __ __]
+  B-2 bet 10
+  B-3 raised to 20
+  B-4 folded
+  B-5 raised to 30
+  B-6 raised to 40
+  B-7 folded
+  B-8 folded
+  B-0 called
+  B-1 raised to 50
+  B-2 called
+  B-3 called
+  B-5 folded
+  B-6 raised to 60
+  B-0 folded
+  B-1 folded
+  B-2 called
+  B-3 called
+
+FLOP [7d 2s Jh __ __]
+  B-2 checked
+  B-3 checked
+  B-6 bet 10
+  B-2 folded
+  B-3 folded
+  B-6 won 310
+---END OF HAND 28---
+
+
+---START OF HAND 29---
+Players:
+  B-2(SB) 80
+  B-3(BB) 188
+  B-4(UTG) 534
+  B-5(UTG+1) 70
+  B-6(UTG+2) 510
+  B-7(LJ) 208
+  B-8(HJ) 335
+  B-0(CO) 20
+  B-1(BTN) 355
+
+PREFLOP [__ __ __ __ __]
+  B-3 bet 10
+  B-4 raised to 20
+  B-5 raised to 30
+  B-6 raised to 40
+  B-7 called
+  B-8 raised to 50
+  B-0 called
+  B-1 called
+  B-2 called
+  B-3 folded
+  B-4 folded
+  B-5 called
+  B-6 raised to 60
+  B-7 raised to 70
+  B-8 raised to 80
+  B-1 called
+  B-2 called
+  B-5 called
+  B-6 raised to 90
+  B-7 called
+  B-8 called
+  B-1 called
+
+FLOP [4d 6h 6d __ __]
+  B-6 folded
+  B-7 folded
+  B-8 folded
+
+TURN [4d 6h 6d 8c __]
+
+RIVER [4d 6h 6d 8c As]
+
+SHOWDOWN [4d 6h 6d 8c As]
+  B-2 had [7s Ah] ("Two pair")
+  B-5 had [Ac 3d] ("Two pair")
+  B-0 had [Js Ts] ("Pair")
+  B-1 had [2c 6c] ("Three of a kind")
+
+  B-1 won 560
+---END OF HAND 29---
+
+
+---START OF HAND 30---
+Players:
+  B-3(SB) 178
+  B-4(BB) 514
+  B-5(UTG) 100
+  B-6(UTG+1) 420
+  B-7(UTG+2) 118
+  B-8(LJ) 245
+  B-0(HJ) 100
+  B-1(CO) 825
+  B-2(BTN) 100
+
+PREFLOP [__ __ __ __ __]
+  B-4 bet 10
+  B-5 called
+  B-6 called
+  B-7 called
+  B-8 called
+  B-0 folded
+  B-1 raised to 20
+  B-2 called
+  B-3 raised to 30
+  B-4 raised to 40
+  B-5 raised to 50
+  B-6 folded
+  B-7 raised to 60
+  B-8 raised to 70
+  B-1 raised to 80
+  B-2 raised to 90
+  B-3 called
+  B-4 folded
+  B-5 raised to 100
+  B-7 called
+  B-8 raised to 110
+  B-1 folded
+  B-2 called
+  B-3 folded
+  B-7 called
+
+FLOP [4d 6c 9s __ __]
+  B-7 checked
+  B-8 folded
+
+TURN [4d 6c 9s 6s __]
+
+RIVER [4d 6c 9s 6s Kd]
+
+SHOWDOWN [4d 6c 9s 6s Kd]
+  B-5 had [5s Jc] ("Pair")
+  B-7 had [6d Js] ("Three of a kind")
+  B-2 had [8d Jd] ("Pair")
+
+  B-7 won 640
+---END OF HAND 30---
+
+
+---START OF HAND 31---
+Players:
+  B-4(SB) 474
+  B-5(BB) 100
+  B-6(UTG) 410
+  B-7(UTG+1) 648
+  B-8(UTG+2) 135
+  B-0(LJ) 100
+  B-1(HJ) 745
+  B-2(CO) 100
+  B-3(BTN) 88
+
+PREFLOP [__ __ __ __ __]
+  B-5 bet 10
+  B-6 called
+  B-7 called
+  B-8 folded
+  B-0 folded
+  B-1 called
+  B-2 called
+  B-3 folded
+  B-4 called
+  B-5 checked
+
+FLOP [Ac Ad 2c __ __]
+  B-4 checked
+  B-5 folded
+  B-6 checked
+  B-7 bet 10
+  B-1 folded
+  B-2 folded
+  B-4 called
+  B-6 raised to 20
+  B-7 raised to 30
+  B-4 raised to 40
+  B-6 raised to 50
+  B-7 raised to 60
+  B-4 raised to 70
+  B-6 folded
+  B-7 folded
+  B-4 won 240
+---END OF HAND 31---
+
+
+---START OF HAND 32---
+Players:
+  B-5(SB) 90
+  B-6(BB) 350
+  B-7(UTG) 578
+  B-8(UTG+1) 135
+  B-0(UTG+2) 100
+  B-1(LJ) 735
+  B-2(HJ) 90
+  B-3(CO) 88
+  B-4(BTN) 634
+
+PREFLOP [__ __ __ __ __]
+  B-6 bet 10
+  B-7 called
+  B-8 folded
+  B-0 raised to 20
+  B-1 called
+  B-2 called
+  B-3 called
+  B-4 folded
+  B-5 called
+  B-6 raised to 30
+  B-7 called
+  B-0 folded
+  B-1 folded
+  B-2 raised to 40
+  B-3 folded
+  B-5 folded
+  B-6 raised to 50
+  B-7 raised to 60
+  B-2 folded
+  B-6 folded
+  B-7 won 230
+---END OF HAND 32---
+
+
+---START OF HAND 33---
+Players:
+  B-6(SB) 300
+  B-7(BB) 748
+  B-8(UTG) 135
+  B-0(UTG+1) 80
+  B-1(UTG+2) 715
+  B-2(LJ) 50
+  B-3(HJ) 68
+  B-4(CO) 634
+  B-5(BTN) 70
+
+PREFLOP [__ __ __ __ __]
+  B-7 bet 10
+  B-8 called
+  B-0 folded
+  B-1 raised to 20
+  B-2 called
+  B-3 folded
+  B-4 raised to 30
+  B-5 raised to 40
+  B-6 folded
+  B-7 called
+  B-8 folded
+  B-1 folded
+  B-2 raised to 50
+  B-4 raised to 60
+  B-5 folded
+  B-7 raised to 70
+  B-4 raised to 80
+  B-7 folded
+
+FLOP [Js 2s 4s __ __]
+
+TURN [Js 2s 4s 9h __]
+
+RIVER [Js 2s 4s 9h 7h]
+
+SHOWDOWN [Js 2s 4s 9h 7h]
+  B-2 had [Td 5c] ("High Card")
+  B-4 had [Qd 5s] ("High Card")
+
+  B-4 won 275
+---END OF HAND 33---
+
+
+---START OF HAND 34---
+Players:
+  B-7(SB) 678
+  B-8(BB) 125
+  B-0(UTG) 80
+  B-1(UTG+1) 695
+  B-2(UTG+2) 100
+  B-3(LJ) 68
+  B-4(HJ) 829
+  B-5(CO) 30
+  B-6(BTN) 295
+
+PREFLOP [__ __ __ __ __]
+  B-8 bet 10
+  B-0 folded
+  B-1 called
+  B-2 raised to 20
+  B-3 raised to 30
+  B-4 called
+  B-5 called
+  B-6 raised to 40
+  B-7 raised to 50
+  B-8 folded
+  B-1 raised to 60
+  B-2 raised to 70
+  B-3 called
+  B-4 folded
+  B-6 called
+  B-7 called
+  B-1 called
+
+FLOP [5s 7d 9s __ __]
+  B-7 bet 10
+  B-1 folded
+  B-2 called
+  B-6 folded
+
+TURN [5s 7d 9s 2c __]
+  B-7 folded
+
+RIVER [5s 7d 9s 2c 4d]
+
+SHOWDOWN [5s 7d 9s 2c 4d]
+  B-2 had [2d 7s] ("Two pair")
+  B-3 had [Ah Ts] ("High Card")
+  B-5 had [6h 3c] ("Straight")
+
+  B-5 won 220
+  B-2 won 218
+---END OF HAND 34---
+
+
+---START OF HAND 35---
+Players:
+  B-8(SB) 115
+  B-0(BB) 80
+  B-1(UTG) 625
+  B-2(UTG+1) 238
+  B-3(UTG+2) 100
+  B-4(LJ) 799
+  B-5(HJ) 220
+  B-6(CO) 225
+  B-7(BTN) 598
+
+PREFLOP [__ __ __ __ __]
+  B-0 bet 10
+  B-1 raised to 20
+  B-2 called
+  B-3 folded
+  B-4 raised to 30
+  B-5 folded
+  B-6 raised to 40
+  B-7 folded
+  B-8 folded
+  B-0 called
+  B-1 called
+  B-2 folded
+  B-4 raised to 50
+  B-6 raised to 60
+  B-0 called
+  B-1 raised to 70
+  B-4 folded
+  B-6 folded
+  B-0 called
+
+FLOP [Ac Js Jc __ __]
+  B-0 checked
+  B-1 bet 10
+  B-0 folded
+  B-1 won 285
+---END OF HAND 35---
+
+
+---START OF HAND 36---
+Players:
+  B-0(SB) 10
+  B-1(BB) 830
+  B-2(UTG) 218
+  B-3(UTG+1) 100
+  B-4(UTG+2) 749
+  B-5(LJ) 220
+  B-6(HJ) 165
+  B-7(CO) 598
+  B-8(BTN) 110
+
+PREFLOP [__ __ __ __ __]
+  B-1 bet 10
+  B-2 called
+  B-3 folded
+  B-4 folded
+  B-5 called
+  B-6 raised to 20
+  B-7 raised to 30
+  B-8 raised to 40
+  B-0 called
+  B-1 called
+  B-2 called
+  B-5 folded
+  B-6 folded
+  B-7 called
+
+FLOP [3c 8c 2c __ __]
+  B-1 folded
+  B-2 bet 10
+  B-7 called
+  B-8 raised to 20
+  B-2 raised to 30
+  B-7 called
+  B-8 called
+
+TURN [3c 8c 2c 7c __]
+  B-2 folded
+  B-7 checked
+  B-8 bet 10
+  B-7 folded
+
+RIVER [3c 8c 2c 7c 4h]
+
+SHOWDOWN [3c 8c 2c 7c 4h]
+  B-0 had [Qd Ad] ("High Card")
+  B-8 had [Jh 2d] ("Pair")
+
+  B-8 won 300
+---END OF HAND 36---
+
+
+---START OF HAND 37---
+Players:
+  B-1(SB) 790
+  B-2(BB) 148
+  B-3(UTG) 100
+  B-4(UTG+1) 749
+  B-5(UTG+2) 210
+  B-6(LJ) 145
+  B-7(HJ) 528
+  B-8(CO) 330
+  B-0(BTN) 100
+
+PREFLOP [__ __ __ __ __]
+  B-2 bet 10
+  B-3 folded
+  B-4 folded
+  B-5 raised to 20
+  B-6 folded
+  B-7 raised to 30
+  B-8 called
+  B-0 raised to 40
+  B-1 called
+  B-2 folded
+  B-5 folded
+  B-7 called
+  B-8 raised to 50
+  B-0 folded
+  B-1 folded
+  B-7 called
+
+FLOP [5c As 9h __ __]
+  B-7 bet 10
+  B-8 called
+
+TURN [5c As 9h Jh __]
+  B-7 folded
+  B-8 won 230
+---END OF HAND 37---
+
+
+---START OF HAND 38---
+Players:
+  B-2(SB) 138
+  B-3(BB) 100
+  B-4(UTG) 749
+  B-5(UTG+1) 190
+  B-6(UTG+2) 145
+  B-7(LJ) 468
+  B-8(HJ) 500
+  B-0(CO) 60
+  B-1(BTN) 750
+
+PREFLOP [__ __ __ __ __]
+  B-3 bet 10
+  B-4 folded
+  B-5 raised to 20
+  B-6 called
+  B-7 folded
+  B-8 folded
+  B-0 called
+  B-1 raised to 30
+  B-2 folded
+  B-3 called
+  B-5 raised to 40
+  B-6 called
+  B-0 called
+  B-1 folded
+  B-3 called
+
+FLOP [4c 5h Th __ __]
+  B-3 bet 10
+  B-5 raised to 20
+  B-6 called
+  B-0 folded
+  B-3 called
+
+TURN [4c 5h Th Js __]
+  B-3 folded
+  B-5 bet 10
+  B-6 folded
+  B-5 won 265
+---END OF HAND 38---
+
+
+---START OF HAND 39---
+Players:
+  B-3(SB) 40
+  B-4(BB) 749
+  B-5(UTG) 385
+  B-6(UTG+1) 85
+  B-7(UTG+2) 468
+  B-8(LJ) 500
+  B-0(HJ) 20
+  B-1(CO) 720
+  B-2(BTN) 133
+
+PREFLOP [__ __ __ __ __]
+  B-4 bet 10
+  B-5 folded
+  B-6 called
+  B-7 called
+  B-8 called
+  B-0 folded
+  B-1 folded
+  B-2 raised to 20
+  B-3 raised to 30
+  B-4 raised to 40
+  B-6 folded
+  B-7 raised to 50
+  B-8 called
+  B-2 called
+  B-3 called
+  B-4 raised to 60
+  B-7 folded
+  B-8 raised to 70
+  B-2 raised to 80
+  B-4 raised to 90
+  B-8 folded
+  B-2 raised to 100
+  B-4 folded
+
+FLOP [3d 4h Qc __ __]
+
+TURN [3d 4h Qc 5d __]
+
+RIVER [3d 4h Qc 5d Jd]
+
+SHOWDOWN [3d 4h Qc 5d Jd]
+  B-3 had [Jh 8d] ("Pair")
+  B-2 had [2h Ts] ("High Card")
+
+  B-3 won 210
+  B-2 won 150
+---END OF HAND 39---
+
+
+---START OF HAND 40---
+Players:
+  B-4(SB) 659
+  B-5(BB) 385
+  B-6(UTG) 75
+  B-7(UTG+1) 418
+  B-8(UTG+2) 430
+  B-0(LJ) 20
+  B-1(HJ) 720
+  B-2(CO) 183
+  B-3(BTN) 210
+
+PREFLOP [__ __ __ __ __]
+  B-5 bet 10
+  B-6 folded
+  B-7 raised to 20
+  B-8 called
+  B-1 raised to 30
+  B-2 raised to 40
+  B-3 folded
+  B-4 folded
+  B-5 called
+  B-7 folded
+  B-8 raised to 50
+  B-0 called
+  B-1 folded
+  B-2 raised to 60
+  B-5 called
+  B-8 raised to 70
+  B-2 folded
+  B-5 folded
+
+FLOP [3d 8d 3c __ __]
+
+TURN [3d 8d 3c Qc __]
+
+RIVER [3d 8d 3c Qc 3s]
+
+SHOWDOWN [3d 8d 3c Qc 3s]
+  B-8 had [5d Ad] ("Three of a kind")
+  B-0 had [7s 9c] ("Three of a kind")
+
+  B-8 won 265
+---END OF HAND 40---
+
+
+---START OF HAND 41---
+Players:
+  B-5(SB) 325
+  B-6(BB) 75
+  B-7(UTG) 398
+  B-8(UTG+1) 625
+  B-0(UTG+2) 100
+  B-1(LJ) 690
+  B-2(HJ) 123
+  B-3(CO) 210
+  B-4(BTN) 654
+
+PREFLOP [__ __ __ __ __]
+  B-6 bet 10
+  B-7 folded
+  B-8 folded
+  B-0 called
+  B-1 folded
+  B-2 folded
+  B-3 called
+  B-4 called
+  B-5 called
+  B-6 folded
+
+FLOP [Ts 8s Jd __ __]
+  B-5 folded
+  B-0 checked
+  B-3 folded
+  B-4 checked
+
+TURN [Ts 8s Jd 2d __]
+  B-0 checked
+  B-4 folded
+  B-0 won 50
+---END OF HAND 41---
+
+
+---START OF HAND 42---
+Players:
+  B-6(SB) 65
+  B-7(BB) 398
+  B-8(UTG) 625
+  B-0(UTG+1) 140
+  B-1(UTG+2) 690
+  B-2(LJ) 123
+  B-3(HJ) 200
+  B-4(CO) 644
+  B-5(BTN) 315
+
+PREFLOP [__ __ __ __ __]
+  B-7 bet 10
+  B-8 called
+  B-0 raised to 20
+  B-1 folded
+  B-2 folded
+  B-3 raised to 30
+  B-4 raised to 40
+  B-5 raised to 50
+  B-6 folded
+  B-7 folded
+  B-8 folded
+  B-0 called
+  B-3 called
+  B-4 folded
+
+FLOP [Jd 5c 9c __ __]
+  B-0 folded
+  B-3 bet 10
+  B-5 folded
+  B-3 won 225
+---END OF HAND 42---
+
+
+---START OF HAND 43---
+Players:
+  B-7(SB) 388
+  B-8(BB) 615
+  B-0(UTG) 90
+  B-1(UTG+1) 690
+  B-2(UTG+2) 123
+  B-3(LJ) 365
+  B-4(HJ) 604
+  B-5(CO) 265
+  B-6(BTN) 60
+
+PREFLOP [__ __ __ __ __]
+  B-8 bet 10
+  B-0 raised to 20
+  B-1 folded
+  B-2 raised to 30
+  B-3 raised to 40
+  B-4 called
+  B-5 raised to 50
+  B-6 folded
+  B-7 folded
+  B-8 called
+  B-0 raised to 60
+  B-2 folded
+  B-3 called
+  B-4 raised to 70
+  B-5 folded
+  B-8 folded
+  B-0 called
+  B-3 called
+
+FLOP [Jc 2c Kd __ __]
+  B-0 bet 10
+  B-3 called
+  B-4 folded
+
+TURN [Jc 2c Kd Ac __]
+  B-0 checked
+  B-3 folded
+  B-0 won 365
+---END OF HAND 43---
+
+
+---START OF HAND 44---
+Players:
+  B-8(SB) 565
+  B-0(BB) 375
+  B-1(UTG) 690
+  B-2(UTG+1) 93
+  B-3(UTG+2) 285
+  B-4(LJ) 534
+  B-5(HJ) 215
+  B-6(CO) 60
+  B-7(BTN) 383
+
+PREFLOP [__ __ __ __ __]
+  B-0 bet 10
+  B-1 raised to 20
+  B-2 raised to 30
+  B-3 called
+  B-4 raised to 40
+  B-5 raised to 50
+  B-6 folded
+  B-7 raised to 60
+  B-8 called
+  B-0 called
+  B-1 called
+  B-2 raised to 70
+  B-3 raised to 80
+  B-4 called
+  B-5 called
+  B-7 raised to 90
+  B-8 called
+  B-0 called
+  B-1 called
+  B-2 called
+  B-3 called
+  B-4 raised to 100
+  B-5 folded
+  B-7 folded
+  B-8 folded
+  B-0 folded
+  B-1 called
+  B-2 called
+  B-3 folded
+
+FLOP [6c 9d 3c __ __]
+  B-1 bet 10
+  B-4 folded
+
+TURN [6c 9d 3c Qh __]
+
+RIVER [6c 9d 3c Qh Ah]
+
+SHOWDOWN [6c 9d 3c Qh Ah]
+  B-1 had [Kc 4d] ("High Card")
+  B-2 had [Jc Tc] ("High Card")
+
+  B-1 won 743
+---END OF HAND 44---
+
+
+---START OF HAND 45---
+Players:
+  B-0(SB) 285
+  B-1(BB) 1323
+  B-2(UTG) 100
+  B-3(UTG+1) 195
+  B-4(UTG+2) 434
+  B-5(LJ) 135
+  B-6(HJ) 60
+  B-7(CO) 293
+  B-8(BTN) 475
+
+PREFLOP [__ __ __ __ __]
+  B-1 bet 10
+  B-2 raised to 20
+  B-3 folded
+  B-4 folded
+  B-5 raised to 30
+  B-6 called
+  B-7 called
+  B-8 raised to 40
+  B-0 raised to 50
+  B-1 called
+  B-2 raised to 60
+  B-5 called
+  B-7 raised to 70
+  B-8 raised to 80
+  B-0 folded
+  B-1 raised to 90
+  B-2 called
+  B-5 raised to 100
+  B-6 called
+  B-7 raised to 110
+  B-8 folded
+  B-1 called
+  B-2 folded
+  B-5 raised to 120
+  B-7 raised to 130
+  B-1 folded
+  B-5 raised to 135
+  B-7 raised to 145
+
+FLOP [9d Jd Td __ __]
+
+TURN [9d Jd Td Ac __]
+
+RIVER [9d Jd Td Ac 2c]
+
+SHOWDOWN [9d Jd Td Ac 2c]
+  B-5 had [3d 5s] ("High Card")
+  B-6 had [As 9c] ("Two pair")
+  B-7 had [3c 7h] ("High Card")
+
+  B-6 won 410
+  B-7 won 260
+---END OF HAND 45---
+
+
+---START OF HAND 46---
+Players:
+  B-1(SB) 1213
+  B-2(BB) 10
+  B-3(UTG) 195
+  B-4(UTG+1) 434
+  B-5(UTG+2) 100
+  B-6(LJ) 410
+  B-7(HJ) 408
+  B-8(CO) 395
+  B-0(BTN) 235
+
+PREFLOP [__ __ __ __ __]
+  B-2 bet 10
+  B-3 folded
+  B-4 folded
+  B-5 raised to 20
+  B-6 called
+  B-7 raised to 30
+  B-8 called
+  B-0 raised to 40
+  B-1 called
+  B-5 raised to 50
+  B-6 called
+  B-7 folded
+  B-8 called
+  B-0 raised to 60
+  B-1 raised to 70
+  B-5 folded
+  B-6 raised to 80
+  B-8 folded
+  B-0 folded
+  B-1 raised to 90
+  B-6 called
+
+FLOP [6s 7d Ad __ __]
+  B-1 bet 10
+  B-6 folded
+
+TURN [6s 7d Ad 3c __]
+
+RIVER [6s 7d Ad 3c Ac]
+
+SHOWDOWN [6s 7d Ad 3c Ac]
+  B-1 had [Ah Kh] ("Three of a kind")
+  B-2 had [Jd 8s] ("Pair")
+
+  B-1 won 390
+---END OF HAND 46---
+
+
+---START OF HAND 47---
+Players:
+  B-2(SB) 100
+  B-3(BB) 195
+  B-4(UTG) 434
+  B-5(UTG+1) 50
+  B-6(UTG+2) 320
+  B-7(LJ) 378
+  B-8(HJ) 345
+  B-0(CO) 175
+  B-1(BTN) 1503
+
+PREFLOP [__ __ __ __ __]
+  B-3 bet 10
+  B-4 called
+  B-5 raised to 20
+  B-6 called
+  B-7 called
+  B-8 called
+  B-0 raised to 30
+  B-1 called
+  B-2 raised to 40
+  B-3 raised to 50
+  B-4 folded
+  B-5 called
+  B-6 called
+  B-7 called
+  B-8 folded
+  B-0 raised to 60
+  B-1 called
+  B-2 raised to 70
+  B-3 raised to 80
+  B-6 folded
+  B-7 called
+  B-0 raised to 90
+  B-1 folded
+  B-2 raised to 100
+  B-3 folded
+  B-7 called
+  B-0 folded
+
+FLOP [4d 3d 6h __ __]
+
+TURN [4d 3d 6h 2h __]
+
+RIVER [4d 3d 6h 2h Kh]
+
+SHOWDOWN [4d 3d 6h 2h Kh]
+  B-2 had [Qs 5c] ("Straight")
+  B-5 had [8h Kc] ("Pair")
+  B-7 had [Jh 3s] ("Pair")
+
+  B-2 won 560
+---END OF HAND 47---
+
+
+---START OF HAND 48---
+Players:
+  B-3(SB) 115
+  B-4(BB) 424
+  B-5(UTG) 100
+  B-6(UTG+1) 270
+  B-7(UTG+2) 278
+  B-8(LJ) 325
+  B-0(HJ) 85
+  B-1(CO) 1443
+  B-2(BTN) 560
+
+PREFLOP [__ __ __ __ __]
+  B-4 bet 10
+  B-5 raised to 20
+  B-6 folded
+  B-7 raised to 30
+  B-8 raised to 40
+  B-0 folded
+  B-1 raised to 50
+  B-2 called
+  B-3 folded
+  B-4 folded
+  B-5 raised to 60
+  B-7 raised to 70
+  B-8 raised to 80
+  B-1 called
+  B-2 folded
+  B-5 called
+  B-7 called
+
+FLOP [Qh 9c 8d __ __]
+  B-5 checked
+  B-7 bet 10
+  B-8 raised to 20
+  B-1 called
+  B-5 folded
+  B-7 called
+
+TURN [Qh 9c 8d 7h __]
+  B-7 bet 10
+  B-8 raised to 20
+  B-1 called
+  B-7 folded
+
+RIVER [Qh 9c 8d 7h 2c]
+  B-8 folded
+  B-1 won 495
+---END OF HAND 48---
+
+
+---START OF HAND 49---
+Players:
+  B-4(SB) 414
+  B-5(BB) 20
+  B-6(UTG) 270
+  B-7(UTG+1) 168
+  B-8(UTG+2) 205
+  B-0(LJ) 85
+  B-1(HJ) 1818
+  B-2(CO) 510
+  B-3(BTN) 110
+
+PREFLOP [__ __ __ __ __]
+  B-5 bet 10
+  B-6 called
+  B-7 raised to 20
+  B-8 folded
+  B-0 raised to 30
+  B-1 folded
+  B-2 folded
+  B-3 folded
+  B-4 raised to 40
+  B-5 called
+  B-6 folded
+  B-7 called
+  B-0 raised to 50
+  B-4 folded
+  B-7 called
+
+FLOP [2s 4c 2h __ __]
+  B-7 checked
+  B-0 checked
+
+TURN [2s 4c 2h Kc __]
+  B-7 bet 10
+  B-0 folded
+
+RIVER [2s 4c 2h Kc 5h]
+
+SHOWDOWN [2s 4c 2h Kc 5h]
+  B-5 had [3d 7d] ("Pair")
+  B-7 had [Tc Kd] ("Two pair")
+
+  B-7 won 180
+---END OF HAND 49---
+
+
+---START OF HAND 50---
+Players:
+  B-5(SB) 100
+  B-6(BB) 260
+  B-7(UTG) 288
+  B-8(UTG+1) 205
+  B-0(UTG+2) 35
+  B-1(LJ) 1818
+  B-2(HJ) 510
+  B-3(CO) 110
+  B-4(BTN) 374
+
+PREFLOP [__ __ __ __ __]
+  B-6 bet 10
+  B-7 called
+  B-8 called
+  B-0 folded
+  B-1 called
+  B-2 folded
+  B-3 called
+  B-4 called
+  B-5 called
+  B-6 folded
+
+FLOP [7s Kh 9s __ __]
+  B-5 bet 10
+  B-7 folded
+  B-8 folded
+  B-1 called
+  B-3 folded
+  B-4 folded
+
+TURN [7s Kh 9s Tc __]
+  B-5 folded
+  B-1 won 90
+---END OF HAND 50---
+
+
+---START OF HAND 51---
+Players:
+  B-6(SB) 250
+  B-7(BB) 278
+  B-8(UTG) 195
+  B-0(UTG+1) 35
+  B-1(UTG+2) 1888
+  B-2(LJ) 510
+  B-3(HJ) 100
+  B-4(CO) 364
+  B-5(BTN) 80
+
+PREFLOP [__ __ __ __ __]
+  B-7 bet 10
+  B-8 called
+  B-0 called
+  B-1 called
+  B-2 folded
+  B-3 folded
+  B-4 called
+  B-5 raised to 20
+  B-6 raised to 30
+  B-7 folded
+  B-8 called
+  B-0 called
+  B-1 called
+  B-4 folded
+  B-5 raised to 40
+  B-6 called
+  B-8 called
+  B-0 called
+  B-1 called
+
+FLOP [Js 3s 5h __ __]
+  B-6 bet 10
+  B-8 raised to 20
+  B-1 folded
+  B-5 called
+  B-6 called
+
+TURN [Js 3s 5h Tc __]
+  B-6 bet 10
+  B-8 raised to 20
+  B-5 called
+  B-6 folded
+
+RIVER [Js 3s 5h Tc Jd]
+
+SHOWDOWN [Js 3s 5h Tc Jd]
+  B-8 had [8h Jc] ("Three of a kind")
+  B-0 had [7h Kd] ("Pair")
+  B-5 had [4d 2c] ("Pair")
+
+  B-8 won 325
+---END OF HAND 51---
+
+
+---START OF HAND 52---
+Players:
+  B-7(SB) 268
+  B-8(BB) 440
+  B-0(UTG) 100
+  B-1(UTG+1) 1848
+  B-2(UTG+2) 510
+  B-3(LJ) 100
+  B-4(HJ) 354
+  B-5(CO) 100
+  B-6(BTN) 180
+
+PREFLOP [__ __ __ __ __]
+  B-8 bet 10
+  B-0 raised to 20
+  B-1 folded
+  B-2 raised to 30
+  B-3 called
+  B-4 folded
+  B-5 called
+  B-6 called
+  B-7 folded
+  B-8 folded
+  B-0 folded
+
+FLOP [Qd 7h Jd __ __]
+  B-2 checked
+  B-3 bet 10
+  B-5 called
+  B-6 folded
+  B-2 raised to 20
+  B-3 folded
+  B-5 called
+
+TURN [Qd 7h Jd 9c __]
+  B-2 checked
+  B-5 folded
+  B-2 won 205
+---END OF HAND 52---
+
+
+---START OF HAND 53---
+Players:
+  B-8(SB) 430
+  B-0(BB) 80
+  B-1(UTG) 1848
+  B-2(UTG+1) 665
+  B-3(UTG+2) 60
+  B-4(LJ) 354
+  B-5(HJ) 50
+  B-6(CO) 150
+  B-7(BTN) 263
+
+PREFLOP [__ __ __ __ __]
+  B-0 bet 10
+  B-1 folded
+  B-2 called
+  B-3 called
+  B-4 raised to 20
+  B-5 folded
+  B-6 raised to 30
+  B-7 called
+  B-8 called
+  B-0 called
+  B-2 folded
+  B-3 folded
+  B-4 raised to 40
+  B-6 raised to 50
+  B-7 raised to 60
+  B-8 raised to 70
+  B-0 called
+  B-4 called
+  B-6 raised to 80
+  B-7 called
+  B-8 called
+  B-0 called
+  B-4 raised to 90
+  B-6 called
+  B-7 called
+  B-8 called
+
+FLOP [8d Qs 7s __ __]
+  B-8 checked
+  B-4 bet 10
+  B-6 called
+  B-7 folded
+  B-8 raised to 20
+  B-4 raised to 30
+  B-6 folded
+  B-8 raised to 40
+  B-4 folded
+
+TURN [8d Qs 7s 2s __]
+
+RIVER [8d Qs 7s 2s 6s]
+
+SHOWDOWN [8d Qs 7s 2s 6s]
+  B-8 had [9d 2c] ("Pair")
+  B-0 had [Jh 3d] ("High Card")
+
+  B-8 won 540
+---END OF HAND 53---
+
+
+---START OF HAND 54---
+Players:
+  B-0(SB) 100
+  B-1(BB) 1848
+  B-2(UTG) 655
+  B-3(UTG+1) 50
+  B-4(UTG+2) 234
+  B-5(LJ) 50
+  B-6(HJ) 50
+  B-7(CO) 173
+  B-8(BTN) 840
+
+PREFLOP [__ __ __ __ __]
+  B-1 bet 10
+  B-2 raised to 20
+  B-3 raised to 30
+  B-4 called
+  B-5 folded
+  B-6 folded
+  B-7 called
+  B-8 folded
+  B-0 called
+  B-1 raised to 40
+  B-2 folded
+  B-3 called
+  B-4 raised to 50
+  B-7 raised to 60
+  B-0 raised to 70
+  B-1 folded
+  B-3 called
+  B-4 folded
+  B-7 raised to 80
+  B-0 folded
+
+FLOP [3d 9c Ad __ __]
+
+TURN [3d 9c Ad Ts __]
+
+RIVER [3d 9c Ad Ts 9s]
+
+SHOWDOWN [3d 9c Ad Ts 9s]
+  B-3 had [6s 8d] ("Pair")
+  B-7 had [Jh 4h] ("Pair")
+
+  B-7 won 310
+---END OF HAND 54---
+
+
+---START OF HAND 55---
+Players:
+  B-1(SB) 1808
+  B-2(BB) 635
+  B-3(UTG) 100
+  B-4(UTG+1) 184
+  B-5(UTG+2) 50
+  B-6(LJ) 50
+  B-7(HJ) 403
+  B-8(CO) 840
+  B-0(BTN) 30
+
+PREFLOP [__ __ __ __ __]
+  B-2 bet 10
+  B-3 called
+  B-4 called
+  B-5 raised to 20
+  B-6 folded
+  B-7 raised to 30
+  B-8 called
+  B-0 folded
+  B-1 raised to 40
+  B-2 called
+  B-3 called
+  B-4 raised to 50
+  B-5 called
+  B-7 raised to 60
+  B-8 called
+  B-1 called
+  B-2 called
+  B-3 raised to 70
+  B-4 folded
+  B-7 called
+  B-8 raised to 80
+  B-1 folded
+  B-2 raised to 90
+  B-3 called
+  B-7 raised to 100
+  B-8 called
+  B-2 raised to 110
+  B-3 folded
+  B-7 folded
+  B-8 folded
+
+FLOP [8c 2d 4c __ __]
+
+TURN [8c 2d 4c 8d __]
+
+RIVER [8c 2d 4c 8d 5c]
+
+SHOWDOWN [8c 2d 4c 8d 5c]
+  B-2 had [Ah 6c] ("Pair")
+  B-5 had [5s 8s] ("Full house")
+
+  B-5 won 350
+  B-2 won 210
+---END OF HAND 55---
+
+
+---START OF HAND 56---
+Players:
+  B-2(SB) 735
+  B-3(BB) 10
+  B-4(UTG) 134
+  B-5(UTG+1) 350
+  B-6(UTG+2) 50
+  B-7(LJ) 303
+  B-8(HJ) 740
+  B-0(CO) 30
+  B-1(BTN) 1748
+
+PREFLOP [__ __ __ __ __]
+  B-3 bet 10
+  B-4 called
+  B-5 called
+  B-6 called
+  B-7 called
+  B-8 folded
+  B-0 called
+  B-1 folded
+  B-2 raised to 20
+  B-4 folded
+  B-5 raised to 30
+  B-6 called
+  B-7 called
+  B-0 folded
+  B-2 called
+
+FLOP [9s 7s Kh __ __]
+  B-2 bet 10
+  B-5 folded
+  B-6 called
+  B-7 called
+
+TURN [9s 7s Kh 9c __]
+  B-2 folded
+  B-6 folded
+
+RIVER [9s 7s Kh 9c 8h]
+
+SHOWDOWN [9s 7s Kh 9c 8h]
+  B-3 had [Jh Qh] ("Pair")
+  B-7 had [6c 4d] ("Pair")
+
+  B-3 won 70
+  B-7 won 110
+---END OF HAND 56---
+
+
+---START OF HAND 57---
+Players:
+  B-3(SB) 70
+  B-4(BB) 124
+  B-5(UTG) 320
+  B-6(UTG+1) 10
+  B-7(UTG+2) 373
+  B-8(LJ) 740
+  B-0(HJ) 20
+  B-1(CO) 1748
+  B-2(BTN) 695
+
+PREFLOP [__ __ __ __ __]
+  B-4 bet 10
+  B-5 raised to 20
+  B-6 called
+  B-7 called
+  B-8 folded
+  B-0 folded
+  B-1 folded
+  B-2 folded
+  B-3 raised to 30
+  B-4 folded
+  B-5 raised to 40
+  B-7 folded
+  B-3 folded
+
+FLOP [Qd 7d Kd __ __]
+
+TURN [Qd 7d Kd Ah __]
+
+RIVER [Qd 7d Kd Ah 4c]
+
+SHOWDOWN [Qd 7d Kd Ah 4c]
+  B-5 had [3s Jd] ("High Card")
+  B-6 had [9h Ts] ("High Card")
+
+  B-5 won 110
+---END OF HAND 57---
+
+
+---START OF HAND 58---
+Players:
+  B-4(SB) 114
+  B-5(BB) 390
+  B-6(UTG) 100
+  B-7(UTG+1) 353
+  B-8(UTG+2) 740
+  B-0(LJ) 20
+  B-1(HJ) 1748
+  B-2(CO) 695
+  B-3(BTN) 40
+
+PREFLOP [__ __ __ __ __]
+  B-5 bet 10
+  B-6 folded
+  B-7 folded
+  B-8 called
+  B-0 raised to 20
+  B-1 called
+  B-2 folded
+  B-3 folded
+  B-4 raised to 30
+  B-5 folded
+  B-8 called
+  B-1 raised to 40
+  B-4 called
+  B-8 raised to 50
+  B-1 folded
+  B-4 folded
+
+FLOP [5d 6c 7d __ __]
+
+TURN [5d 6c 7d 4h __]
+
+RIVER [5d 6c 7d 4h 3s]
+
+SHOWDOWN [5d 6c 7d 4h 3s]
+  B-8 had [9d Jc] ("Straight")
+  B-0 had [5h Qs] ("Straight")
+
+  B-8 won 80
+  B-0 won 80
+---END OF HAND 58---
+
+
+---START OF HAND 59---
+Players:
+  B-5(SB) 380
+  B-6(BB) 100
+  B-7(UTG) 353
+  B-8(UTG+1) 770
+  B-0(UTG+2) 80
+  B-1(LJ) 1708
+  B-2(HJ) 695
+  B-3(CO) 40
+  B-4(BTN) 74
+
+PREFLOP [__ __ __ __ __]
+  B-6 bet 10
+  B-7 raised to 20
+  B-8 folded
+  B-0 raised to 30
+  B-1 raised to 40
+  B-2 called
+  B-3 folded
+  B-4 called
+  B-5 called
+  B-6 folded
+  B-7 called
+  B-0 called
+
+FLOP [5h 7h 5c __ __]
+  B-5 folded
+  B-7 checked
+  B-0 bet 10
+  B-1 raised to 20
+  B-2 raised to 30
+  B-4 raised to 34
+  B-7 folded
+  B-0 raised to 40
+  B-1 raised to 50
+  B-2 called
+
+TURN [5h 7h 5c Qc __]
+  B-1 checked
+  B-2 checked
+
+RIVER [5h 7h 5c Qc 6d]
+  B-1 checked
+  B-2 folded
+
+SHOWDOWN [5h 7h 5c Qc 6d]
+  B-0 had [5d Qs] ("Full house")
+  B-1 had [4h 2h] ("Pair")
+  B-4 had [2c Ac] ("Pair")
+
+  B-0 won 404
+  B-4 won 20
+---END OF HAND 59---
+
+
+---START OF HAND 60---
+Players:
+  B-6(SB) 90
+  B-7(BB) 313
+  B-8(UTG) 770
+  B-0(UTG+1) 404
+  B-1(UTG+2) 1618
+  B-2(LJ) 605
+  B-3(HJ) 40
+  B-4(CO) 20
+  B-5(BTN) 340
+
+PREFLOP [__ __ __ __ __]
+  B-7 bet 10
+  B-8 folded
+  B-0 called
+  B-1 raised to 20
+  B-2 called
+  B-3 called
+  B-4 called
+  B-5 called
+  B-6 folded
+  B-7 called
+  B-0 raised to 30
+  B-1 folded
+  B-2 called
+  B-3 called
+  B-5 folded
+  B-7 called
+
+FLOP [Jd Qd 8s __ __]
+  B-7 checked
+  B-0 checked
+  B-2 checked
+  B-3 folded
+
+TURN [Jd Qd 8s 4d __]
+  B-7 checked
+  B-0 checked
+  B-2 checked
+
+RIVER [Jd Qd 8s 4d 4c]
+  B-7 bet 10
+  B-0 called
+  B-2 folded
+
+SHOWDOWN [Jd Qd 8s 4d 4c]
+  B-7 had [Qs 9d] ("Two pair")
+  B-0 had [Td 3d] ("Flush")
+  B-4 had [6s 5h] ("Pair")
+
+  B-0 won 205
+---END OF HAND 60---
+
+
+---START OF HAND 61---
+Players:
+  B-7(SB) 273
+  B-8(BB) 770
+  B-0(UTG) 569
+  B-1(UTG+1) 1598
+  B-2(UTG+2) 575
+  B-3(LJ) 10
+  B-4(HJ) 100
+  B-5(CO) 320
+  B-6(BTN) 85
+
+PREFLOP [__ __ __ __ __]
+  B-8 bet 10
+  B-0 called
+  B-1 folded
+  B-2 raised to 20
+  B-3 called
+  B-4 called
+  B-5 folded
+  B-6 called
+  B-7 called
+  B-8 raised to 30
+  B-0 called
+  B-2 called
+  B-4 called
+  B-6 raised to 40
+  B-7 folded
+  B-8 raised to 50
+  B-0 folded
+  B-2 folded
+  B-4 raised to 60
+  B-6 raised to 70
+  B-8 raised to 80
+  B-4 folded
+  B-6 raised to 85
+  B-8 folded
+
+FLOP [8h 9d Kc __ __]
+
+TURN [8h 9d Kc 4c __]
+
+RIVER [8h 9d Kc 4c 2s]
+
+SHOWDOWN [8h 9d Kc 4c 2s]
+  B-3 had [7c Jc] ("High Card")
+  B-6 had [6c Td] ("High Card")
+
+  B-3 won 70
+  B-6 won 245
+---END OF HAND 61---
+
+
+---START OF HAND 62---
+Players:
+  B-8(SB) 690
+  B-0(BB) 539
+  B-1(UTG) 1598
+  B-2(UTG+1) 545
+  B-3(UTG+2) 70
+  B-4(LJ) 40
+  B-5(HJ) 320
+  B-6(CO) 245
+  B-7(BTN) 253
+
+PREFLOP [__ __ __ __ __]
+  B-0 bet 10
+  B-1 called
+  B-2 folded
+  B-3 called
+  B-4 called
+  B-5 called
+  B-6 folded
+  B-7 called
+  B-8 raised to 20
+  B-0 raised to 30
+  B-1 raised to 40
+  B-3 folded
+  B-4 called
+  B-5 folded
+  B-7 raised to 50
+  B-8 raised to 60
+  B-0 folded
+  B-1 folded
+  B-7 called
+
+FLOP [8h 5d Kd __ __]
+  B-8 bet 10
+  B-7 folded
+
+TURN [8h 5d Kd 6h __]
+
+RIVER [8h 5d Kd 6h As]
+
+SHOWDOWN [8h 5d Kd 6h As]
+  B-8 had [Qh Ac] ("Pair")
+  B-4 had [9c 4h] ("High Card")
+
+  B-8 won 260
+---END OF HAND 62---
+
+
+---START OF HAND 63---
+Players:
+  B-0(SB) 509
+  B-1(BB) 1558
+  B-2(UTG) 545
+  B-3(UTG+1) 60
+  B-4(UTG+2) 100
+  B-5(LJ) 310
+  B-6(HJ) 245
+  B-7(CO) 193
+  B-8(BTN) 880
+
+PREFLOP [__ __ __ __ __]
+  B-1 bet 10
+  B-2 called
+  B-3 called
+  B-4 folded
+  B-5 folded
+  B-6 raised to 20
+  B-7 called
+  B-8 folded
+  B-0 folded
+  B-1 folded
+  B-2 called
+  B-3 raised to 30
+  B-6 raised to 40
+  B-7 raised to 50
+  B-2 called
+  B-3 raised to 60
+  B-6 folded
+  B-7 called
+  B-2 called
+
+FLOP [5s 2s Kh __ __]
+  B-2 checked
+  B-7 bet 10
+  B-2 called
+
+TURN [5s 2s Kh 4c __]
+  B-2 folded
+
+RIVER [5s 2s Kh 4c Jc]
+
+SHOWDOWN [5s 2s Kh 4c Jc]
+  B-3 had [Tc 6d] ("High Card")
+  B-7 had [8d 9c] ("High Card")
+
+  B-3 won 235
+  B-7 won 20
+---END OF HAND 63---
+
+
+---START OF HAND 64---
+Players:
+  B-1(SB) 1548
+  B-2(BB) 475
+  B-3(UTG) 235
+  B-4(UTG+1) 100
+  B-5(UTG+2) 310
+  B-6(LJ) 205
+  B-7(HJ) 143
+  B-8(CO) 880
+  B-0(BTN) 504
+
+PREFLOP [__ __ __ __ __]
+  B-2 bet 10
+  B-3 folded
+  B-4 called
+  B-5 folded
+  B-6 raised to 20
+  B-7 folded
+  B-8 called
+  B-0 folded
+  B-1 folded
+  B-2 called
+  B-4 folded
+
+FLOP [4d 7d 9d __ __]
+  B-2 folded
+  B-6 folded
+  B-8 won 75
+---END OF HAND 64---
+
+
+---START OF HAND 65---
+Players:
+  B-2(SB) 455
+  B-3(BB) 235
+  B-4(UTG) 90
+  B-5(UTG+1) 310
+  B-6(UTG+2) 185
+  B-7(LJ) 143
+  B-8(HJ) 935
+  B-0(CO) 504
+  B-1(BTN) 1543
+
+PREFLOP [__ __ __ __ __]
+  B-3 bet 10
+  B-4 called
+  B-5 raised to 20
+  B-6 folded
+  B-7 called
+  B-8 called
+  B-0 raised to 30
+  B-1 raised to 40
+  B-2 raised to 50
+  B-3 raised to 60
+  B-4 called
+  B-5 raised to 70
+  B-7 folded
+  B-8 folded
+  B-0 called
+  B-1 called
+  B-2 raised to 80
+  B-3 folded
+  B-4 folded
+  B-5 called
+  B-0 raised to 90
+  B-1 called
+  B-2 called
+  B-5 raised to 100
+  B-0 folded
+  B-1 called
+  B-2 folded
+
+FLOP [Qs 8s Ac __ __]
+  B-5 folded
+  B-1 won 540
+---END OF HAND 65---
+
+
+---START OF HAND 66---
+Players:
+  B-3(SB) 175
+  B-4(BB) 30
+  B-5(UTG) 210
+  B-6(UTG+1) 185
+  B-7(UTG+2) 123
+  B-8(LJ) 915
+  B-0(HJ) 414
+  B-1(CO) 1983
+  B-2(BTN) 365
+
+PREFLOP [__ __ __ __ __]
+  B-4 bet 10
+  B-5 raised to 20
+  B-6 raised to 30
+  B-7 folded
+  B-8 folded
+  B-0 folded
+  B-1 called
+  B-2 raised to 40
+  B-3 folded
+  B-4 called
+  B-5 raised to 50
+  B-6 folded
+  B-1 called
+  B-2 raised to 60
+  B-5 folded
+  B-1 raised to 70
+  B-2 raised to 80
+  B-1 raised to 90
+  B-2 folded
+
+FLOP [3c 9s Js __ __]
+
+TURN [3c 9s Js Jd __]
+
+RIVER [3c 9s Js Jd Qs]
+
+SHOWDOWN [3c 9s Js Jd Qs]
+  B-4 had [Td 5d] ("Pair")
+  B-1 had [Th Ks] ("Straight")
+
+  B-1 won 285
+---END OF HAND 66---
+
+
+---START OF HAND 67---
+Players:
+  B-4(SB) 100
+  B-5(BB) 160
+  B-6(UTG) 155
+  B-7(UTG+1) 123
+  B-8(UTG+2) 915
+  B-0(LJ) 414
+  B-1(HJ) 2178
+  B-2(CO) 285
+  B-3(BTN) 170
+
+PREFLOP [__ __ __ __ __]
+  B-5 bet 10
+  B-6 raised to 20
+  B-7 raised to 30
+  B-8 called
+  B-0 raised to 40
+  B-1 raised to 50
+  B-2 folded
+  B-3 raised to 60
+  B-4 called
+  B-5 folded
+  B-6 called
+  B-7 folded
+  B-8 folded
+  B-0 raised to 70
+  B-1 called
+  B-3 folded
+  B-4 raised to 80
+  B-6 folded
+  B-0 called
+  B-1 raised to 90
+  B-4 raised to 100
+  B-0 called
+  B-1 folded
+
+FLOP [7c Jc 5d __ __]
+
+TURN [7c Jc 5d 3h __]
+
+RIVER [7c Jc 5d 3h 3c]
+
+SHOWDOWN [7c Jc 5d 3h 3c]
+  B-4 had [3d 8h] ("Three of a kind")
+  B-0 had [Ks Qd] ("Pair")
+
+  B-4 won 480
+---END OF HAND 67---
+
+
+---START OF HAND 68---
+Players:
+  B-5(SB) 150
+  B-6(BB) 95
+  B-7(UTG) 93
+  B-8(UTG+1) 885
+  B-0(UTG+2) 314
+  B-1(LJ) 2088
+  B-2(HJ) 285
+  B-3(CO) 110
+  B-4(BTN) 480
+
+PREFLOP [__ __ __ __ __]
+  B-6 bet 10
+  B-7 raised to 20
+  B-8 called
+  B-0 called
+  B-1 called
+  B-2 raised to 30
+  B-3 called
+  B-4 called
+  B-5 raised to 40
+  B-6 folded
+  B-7 raised to 50
+  B-8 called
+  B-0 folded
+  B-1 raised to 60
+  B-2 folded
+  B-3 called
+  B-4 called
+  B-5 folded
+  B-7 raised to 70
+  B-8 raised to 80
+  B-1 raised to 90
+  B-3 folded
+  B-4 called
+  B-7 called
+  B-8 raised to 100
+  B-1 called
+  B-4 folded
+  B-7 called
+
+FLOP [5d 9d 9h __ __]
+  B-8 folded
+
+TURN [5d 9d 9h 7h __]
+
+RIVER [5d 9d 9h 7h 7d]
+
+SHOWDOWN [5d 9d 9h 7h 7d]
+  B-7 had [4d 9c] ("Full house")
+  B-1 had [Qh 7c] ("Full house")
+
+  B-7 won 529
+  B-1 won 14
+---END OF HAND 68---
+
+
+---START OF HAND 69---
+Players:
+  B-6(SB) 85
+  B-7(BB) 529
+  B-8(UTG) 785
+  B-0(UTG+1) 294
+  B-1(UTG+2) 2002
+  B-2(LJ) 255
+  B-3(HJ) 50
+  B-4(CO) 390
+  B-5(BTN) 110
+
+PREFLOP [__ __ __ __ __]
+  B-7 bet 10
+  B-8 folded
+  B-0 called
+  B-1 raised to 20
+  B-2 folded
+  B-3 raised to 30
+  B-4 raised to 40
+  B-5 folded
+  B-6 called
+  B-7 raised to 50
+  B-0 called
+  B-1 raised to 60
+  B-3 called
+  B-4 raised to 70
+  B-6 raised to 80
+  B-7 called
+  B-0 raised to 90
+  B-1 called
+  B-4 raised to 100
+  B-6 called
+  B-7 folded
+  B-0 called
+  B-1 folded
+
+FLOP [Kd 6c Ac __ __]
+  B-0 folded
+
+TURN [Kd 6c Ac 5c __]
+
+RIVER [Kd 6c Ac 5c 8h]
+
+SHOWDOWN [Kd 6c Ac 5c 8h]
+  B-6 had [Td Qs] ("High Card")
+  B-3 had [6h 7c] ("Pair")
+  B-4 had [Kc Jd] ("Pair")
+
+  B-4 won 505
+---END OF HAND 69---
+
+
+---START OF HAND 70---
+Players:
+  B-7(SB) 449
+  B-8(BB) 785
+  B-0(UTG) 194
+  B-1(UTG+1) 1912
+  B-2(UTG+2) 255
+  B-3(LJ) 100
+  B-4(HJ) 795
+  B-5(CO) 110
+  B-6(BTN) 100
+
+PREFLOP [__ __ __ __ __]
+  B-8 bet 10
+  B-0 folded
+  B-1 called
+  B-2 folded
+  B-3 called
+  B-4 called
+  B-5 raised to 20
+  B-6 folded
+  B-7 called
+  B-8 folded
+  B-1 folded
+  B-3 called
+  B-4 called
+
+FLOP [As Qd 2h __ __]
+  B-7 folded
+  B-3 bet 10
+  B-4 raised to 20
+  B-5 folded
+  B-3 raised to 30
+  B-4 folded
+  B-3 won 150
+---END OF HAND 70---
+
+
+---START OF HAND 71---
+Players:
+  B-8(SB) 775
+  B-0(BB) 194
+  B-1(UTG) 1902
+  B-2(UTG+1) 255
+  B-3(UTG+2) 200
+  B-4(LJ) 755
+  B-5(HJ) 90
+  B-6(CO) 100
+  B-7(BTN) 429
+
+PREFLOP [__ __ __ __ __]
+  B-0 bet 10
+  B-1 folded
+  B-2 raised to 20
+  B-3 raised to 30
+  B-4 folded
+  B-5 folded
+  B-6 called
+  B-7 raised to 40
+  B-8 folded
+  B-0 called
+  B-2 folded
+  B-3 called
+  B-6 raised to 50
+  B-7 folded
+  B-0 called
+  B-3 raised to 60
+  B-6 called
+  B-0 raised to 70
+  B-3 raised to 80
+  B-6 folded
+  B-0 raised to 90
+  B-3 raised to 100
+  B-0 raised to 110
+  B-3 called
+
+FLOP [8s 5d 9c __ __]
+  B-0 bet 10
+  B-3 folded
+  B-0 won 355
+---END OF HAND 71---
+
+
+---START OF HAND 72---
+Players:
+  B-0(SB) 429
+  B-1(BB) 1902
+  B-2(UTG) 235
+  B-3(UTG+1) 90
+  B-4(UTG+2) 755
+  B-5(LJ) 90
+  B-6(HJ) 40
+  B-7(CO) 389
+  B-8(BTN) 770
+
+PREFLOP [__ __ __ __ __]
+  B-1 bet 10
+  B-2 called
+  B-3 called
+  B-4 called
+  B-5 raised to 20
+  B-6 folded
+  B-7 folded
+  B-8 raised to 30
+  B-0 called
+  B-1 called
+  B-2 raised to 40
+  B-3 called
+  B-4 called
+  B-5 raised to 50
+  B-8 folded
+  B-0 raised to 60
+  B-1 called
+  B-2 folded
+  B-3 called
+  B-4 folded
+  B-5 called
+
+FLOP [Jc 5c 4d __ __]
+  B-0 checked
+  B-1 checked
+  B-3 checked
+  B-5 bet 10
+  B-0 called
+  B-1 folded
+  B-3 called
+
+TURN [Jc 5c 4d 8s __]
+  B-0 checked
+  B-3 folded
+  B-5 bet 10
+  B-0 folded
+  B-5 won 390
+---END OF HAND 72---
+
+
+---START OF HAND 73---
+Players:
+  B-1(SB) 1842
+  B-2(BB) 195
+  B-3(UTG) 20
+  B-4(UTG+1) 715
+  B-5(UTG+2) 400
+  B-6(LJ) 40
+  B-7(HJ) 389
+  B-8(CO) 740
+  B-0(BTN) 359
+
+PREFLOP [__ __ __ __ __]
+  B-2 bet 10
+  B-3 folded
+  B-4 folded
+  B-5 called
+  B-6 called
+  B-7 raised to 20
+  B-8 raised to 30
+  B-0 raised to 40
+  B-1 raised to 50
+  B-2 raised to 60
+  B-5 folded
+  B-6 folded
+  B-7 raised to 70
+  B-8 raised to 80
+  B-0 folded
+  B-1 folded
+  B-2 called
+  B-7 raised to 90
+  B-8 called
+  B-2 folded
+
+FLOP [5c 3h Ad __ __]
+  B-7 checked
+  B-8 folded
+  B-7 won 370
+---END OF HAND 73---
+
+
+---START OF HAND 74---
+Players:
+  B-2(SB) 115
+  B-3(BB) 20
+  B-4(UTG) 715
+  B-5(UTG+1) 390
+  B-6(UTG+2) 30
+  B-7(LJ) 669
+  B-8(HJ) 650
+  B-0(CO) 319
+  B-1(BTN) 1792
+
+PREFLOP [__ __ __ __ __]
+  B-3 bet 10
+  B-4 folded
+  B-5 folded
+  B-6 raised to 20
+  B-7 folded
+  B-8 folded
+  B-0 raised to 30
+  B-1 folded
+  B-2 called
+  B-3 folded
+  B-6 folded
+
+FLOP [4s 6h 3h __ __]
+  B-2 bet 10
+  B-0 called
+
+TURN [4s 6h 3h Qs __]
+  B-2 checked
+  B-0 bet 10
+  B-2 raised to 20
+  B-0 raised to 30
+  B-2 raised to 40
+  B-0 folded
+  B-2 won 180
+---END OF HAND 74---
+
+
+---START OF HAND 75---
+Players:
+  B-3(SB) 10
+  B-4(BB) 715
+  B-5(UTG) 390
+  B-6(UTG+1) 10
+  B-7(UTG+2) 669
+  B-8(LJ) 650
+  B-0(HJ) 249
+  B-1(CO) 1792
+  B-2(BTN) 215
+
+PREFLOP [__ __ __ __ __]
+  B-4 bet 10
+  B-5 raised to 20
+  B-6 called
+  B-7 called
+  B-8 raised to 30
+  B-0 raised to 40
+  B-1 raised to 50
+  B-2 raised to 60
+  B-3 folded
+  B-4 raised to 70
+  B-5 raised to 80
+  B-7 called
+  B-8 raised to 90
+  B-0 raised to 100
+  B-1 called
+  B-2 called
+  B-4 called
+  B-5 folded
+  B-7 folded
+  B-8 raised to 110
+  B-0 raised to 120
+  B-1 folded
+  B-2 called
+  B-4 folded
+  B-8 raised to 130
+  B-0 folded
+  B-2 called
+
+FLOP [6c Js 7s __ __]
+  B-8 bet 10
+  B-2 raised to 20
+  B-8 raised to 30
+  B-2 called
+
+TURN [6c Js 7s 3s __]
+  B-8 checked
+  B-2 folded
+
+RIVER [6c Js 7s 3s Jc]
+
+SHOWDOWN [6c Js 7s 3s Jc]
+  B-6 had [5s 3h] ("Two pair")
+  B-8 had [Ad Kd] ("Pair")
+
+  B-6 won 85
+  B-8 won 730
+---END OF HAND 75---
+
+
+---START OF HAND 76---
+Players:
+  B-4(SB) 615
+  B-5(BB) 310
+  B-6(UTG) 85
+  B-7(UTG+1) 589
+  B-8(UTG+2) 1220
+  B-0(LJ) 129
+  B-1(HJ) 1692
+  B-2(CO) 55
+  B-3(BTN) 5
+
+PREFLOP [__ __ __ __ __]
+  B-5 bet 10
+  B-6 called
+  B-7 folded
+  B-8 called
+  B-0 raised to 20
+  B-1 called
+  B-2 folded
+  B-3 called
+  B-4 raised to 30
+  B-5 called
+  B-6 raised to 40
+  B-8 called
+  B-0 folded
+  B-1 called
+  B-4 called
+  B-5 raised to 50
+  B-6 folded
+  B-8 folded
+  B-1 folded
+  B-4 folded
+
+FLOP [3c Js 2h __ __]
+
+TURN [3c Js 2h 7d __]
+
+RIVER [3c Js 2h 7d 2c]
+
+SHOWDOWN [3c Js 2h 7d 2c]
+  B-5 had [8d 7c] ("Two pair")
+  B-3 had [6c Jh] ("Two pair")
+
+  B-3 won 35
+  B-5 won 200
+---END OF HAND 76---
+
+
+---START OF HAND 77---
+Players:
+  B-5(SB) 460
+  B-6(BB) 45
+  B-7(UTG) 589
+  B-8(UTG+1) 1180
+  B-0(UTG+2) 109
+  B-1(LJ) 1652
+  B-2(HJ) 55
+  B-3(CO) 35
+  B-4(BTN) 575
+
+PREFLOP [__ __ __ __ __]
+  B-6 bet 10
+  B-7 called
+  B-8 called
+  B-0 called
+  B-1 folded
+  B-2 raised to 20
+  B-3 folded
+  B-4 folded
+  B-5 called
+  B-6 raised to 30
+  B-7 raised to 40
+  B-8 called
+  B-0 called
+  B-2 raised to 50
+  B-5 raised to 60
+  B-6 called
+  B-7 folded
+  B-8 called
+  B-0 raised to 70
+  B-2 called
+  B-5 raised to 80
+  B-8 called
+  B-0 called
+
+FLOP [5s Jc 5c __ __]
+  B-5 folded
+  B-8 bet 10
+  B-0 called
+
+TURN [5s Jc 5c 5h __]
+  B-8 bet 10
+  B-0 folded
+
+RIVER [5s Jc 5c 5h Tc]
+
+SHOWDOWN [5s Jc 5c 5h Tc]
+  B-6 had [Jd 8d] ("Full house")
+  B-8 had [Qs Kd] ("Three of a kind")
+  B-2 had [6h 4c] ("Three of a kind")
+
+  B-6 won 265
+  B-8 won 145
+---END OF HAND 77---
+
+
+---START OF HAND 78---
+Players:
+  B-6(SB) 265
+  B-7(BB) 549
+  B-8(UTG) 1225
+  B-0(UTG+1) 19
+  B-1(UTG+2) 1652
+  B-2(LJ) 100
+  B-3(HJ) 35
+  B-4(CO) 575
+  B-5(BTN) 380
+
+PREFLOP [__ __ __ __ __]
+  B-7 bet 10
+  B-8 raised to 20
+  B-0 folded
+  B-1 raised to 30
+  B-2 raised to 40
+  B-3 folded
+  B-4 folded
+  B-5 folded
+  B-6 raised to 50
+  B-7 raised to 60
+  B-8 folded
+  B-1 called
+  B-2 called
+  B-6 raised to 70
+  B-7 raised to 80
+  B-1 raised to 90
+  B-2 raised to 100
+  B-6 raised to 110
+  B-7 raised to 120
+  B-1 called
+  B-6 called
+
+FLOP [8d 3c 2s __ __]
+  B-6 checked
+  B-7 bet 10
+  B-1 raised to 20
+  B-6 folded
+  B-7 called
+
+TURN [8d 3c 2s As __]
+  B-7 checked
+  B-1 folded
+
+RIVER [8d 3c 2s As 6d]
+
+SHOWDOWN [8d 3c 2s As 6d]
+  B-7 had [3h 9d] ("Pair")
+  B-2 had [Jd Jh] ("Pair")
+
+  B-2 won 420
+  B-7 won 100
+---END OF HAND 78---
+
+
+---START OF HAND 79---
+Players:
+  B-7(SB) 509
+  B-8(BB) 1205
+  B-0(UTG) 19
+  B-1(UTG+1) 1512
+  B-2(UTG+2) 420
+  B-3(LJ) 35
+  B-4(HJ) 575
+  B-5(CO) 380
+  B-6(BTN) 145
+
+PREFLOP [__ __ __ __ __]
+  B-8 bet 10
+  B-0 folded
+  B-1 folded
+  B-2 raised to 20
+  B-3 folded
+  B-4 called
+  B-5 folded
+  B-6 called
+  B-7 raised to 30
+  B-8 called
+  B-2 raised to 40
+  B-4 called
+  B-6 raised to 50
+  B-7 raised to 60
+  B-8 called
+  B-2 raised to 70
+  B-4 raised to 80
+  B-6 raised to 90
+  B-7 folded
+  B-8 raised to 100
+  B-2 folded
+  B-4 folded
+  B-6 raised to 110
+  B-8 raised to 120
+  B-6 folded
+  B-8 won 440
+---END OF HAND 79---
+
+
+---START OF HAND 80---
+Players:
+  B-8(SB) 1525
+  B-0(BB) 19
+  B-1(UTG) 1512
+  B-2(UTG+1) 350
+  B-3(UTG+2) 35
+  B-4(LJ) 495
+  B-5(HJ) 380
+  B-6(CO) 35
+  B-7(BTN) 449
+
+PREFLOP [__ __ __ __ __]
+  B-0 bet 10
+  B-1 called
+  B-2 folded
+  B-3 folded
+  B-4 raised to 20
+  B-5 folded
+  B-6 folded
+  B-7 raised to 30
+  B-8 folded
+  B-0 called
+  B-1 called
+  B-4 raised to 40
+  B-7 raised to 50
+  B-1 folded
+  B-4 folded
+
+FLOP [Tc 4h 5d __ __]
+
+TURN [Tc 4h 5d 2s __]
+
+RIVER [Tc 4h 5d 2s Td]
+
+SHOWDOWN [Tc 4h 5d 2s Td]
+  B-0 had [2c 3d] ("Two pair")
+  B-7 had [Qs 8d] ("Pair")
+
+  B-0 won 81
+  B-7 won 63
+---END OF HAND 80---
+
+
+---START OF HAND 81---
+Players:
+  B-0(SB) 81
+  B-1(BB) 1482
+  B-2(UTG) 350
+  B-3(UTG+1) 35
+  B-4(UTG+2) 455
+  B-5(LJ) 380
+  B-6(HJ) 35
+  B-7(CO) 462
+  B-8(BTN) 1520
+
+PREFLOP [__ __ __ __ __]
+  B-1 bet 10
+  B-2 folded
+  B-3 raised to 20
+  B-4 folded
+  B-5 folded
+  B-6 folded
+  B-7 called
+  B-8 folded
+  B-0 folded
+  B-1 raised to 30
+  B-3 called
+  B-7 called
+
+FLOP [8c 3h Qc __ __]
+  B-1 folded
+  B-3 checked
+  B-7 bet 10
+  B-3 called
+
+TURN [8c 3h Qc Ah __]
+
+RIVER [8c 3h Qc Ah Th]
+
+SHOWDOWN [8c 3h Qc Ah Th]
+  B-3 had [Qd Ks] ("Pair")
+  B-7 had [8h 3d] ("Two pair")
+
+  B-7 won 110
+---END OF HAND 81---
+
+
+---START OF HAND 82---
+Players:
+  B-1(SB) 1452
+  B-2(BB) 350
+  B-3(UTG) 100
+  B-4(UTG+1) 455
+  B-5(UTG+2) 380
+  B-6(LJ) 35
+  B-7(HJ) 532
+  B-8(CO) 1520
+  B-0(BTN) 76
+
+PREFLOP [__ __ __ __ __]
+  B-2 bet 10
+  B-3 called
+  B-4 raised to 20
+  B-5 called
+  B-6 called
+  B-7 raised to 30
+  B-8 folded
+  B-0 folded
+  B-1 folded
+  B-2 raised to 40
+  B-3 raised to 50
+  B-4 called
+  B-5 raised to 60
+  B-6 called
+  B-7 folded
+  B-2 called
+  B-3 folded
+  B-4 folded
+
+FLOP [7h Kh Ac __ __]
+  B-2 checked
+  B-5 folded
+
+TURN [7h Kh Ac 4d __]
+
+RIVER [7h Kh Ac 4d 7c]
+
+SHOWDOWN [7h Kh Ac 4d 7c]
+  B-2 had [6d Jh] ("Pair")
+  B-6 had [6c 4s] ("Two pair")
+
+  B-6 won 210
+  B-2 won 80
+---END OF HAND 82---
+
+
+---START OF HAND 83---
+Players:
+  B-2(SB) 370
+  B-3(BB) 50
+  B-4(UTG) 405
+  B-5(UTG+1) 320
+  B-6(UTG+2) 210
+  B-7(LJ) 502
+  B-8(HJ) 1520
+  B-0(CO) 76
+  B-1(BTN) 1447
+
+PREFLOP [__ __ __ __ __]
+  B-3 bet 10
+  B-4 folded
+  B-5 called
+  B-6 folded
+  B-7 raised to 20
+  B-8 folded
+  B-0 raised to 30
+  B-1 folded
+  B-2 called
+  B-3 called
+  B-5 folded
+  B-7 folded
+
+FLOP [3s 5d Th __ __]
+  B-2 checked
+  B-3 folded
+  B-0 checked
+
+TURN [3s 5d Th Kd __]
+  B-2 folded
+  B-0 won 120
+---END OF HAND 83---
+
+
+---START OF HAND 84---
+Players:
+  B-3(SB) 20
+  B-4(BB) 405
+  B-5(UTG) 310
+  B-6(UTG+1) 210
+  B-7(UTG+2) 482
+  B-8(LJ) 1520
+  B-0(HJ) 166
+  B-1(CO) 1447
+  B-2(BTN) 340
+
+PREFLOP [__ __ __ __ __]
+  B-4 bet 10
+  B-5 called
+  B-6 folded
+  B-7 called
+  B-8 raised to 20
+  B-0 raised to 30
+  B-1 raised to 40
+  B-2 called
+  B-3 called
+  B-4 called
+  B-5 folded
+  B-7 called
+  B-8 called
+  B-0 called
+
+FLOP [5d 8h 7d __ __]
+  B-4 checked
+  B-7 checked
+  B-8 bet 10
+  B-0 folded
+  B-1 raised to 20
+  B-2 folded
+  B-4 called
+  B-7 folded
+  B-8 folded
+
+TURN [5d 8h 7d 2s __]
+  B-4 checked
+  B-1 checked
+
+RIVER [5d 8h 7d 2s Qc]
+  B-4 bet 10
+  B-1 called
+
+SHOWDOWN [5d 8h 7d 2s Qc]
+  B-3 had [4d 8c] ("Pair")
+  B-4 had [3h 9d] ("High Card")
+  B-1 had [5h 3d] ("Pair")
+
+  B-3 won 150
+  B-1 won 190
+---END OF HAND 84---
+
+
+---START OF HAND 85---
+Players:
+  B-4(SB) 335
+  B-5(BB) 300
+  B-6(UTG) 210
+  B-7(UTG+1) 442
+  B-8(UTG+2) 1470
+  B-0(LJ) 126
+  B-1(HJ) 1567
+  B-2(CO) 300
+  B-3(BTN) 150
+
+PREFLOP [__ __ __ __ __]
+  B-5 bet 10
+  B-6 raised to 20
+  B-7 called
+  B-8 raised to 30
+  B-0 called
+  B-1 raised to 40
+  B-2 raised to 50
+  B-3 folded
+  B-4 called
+  B-5 raised to 60
+  B-6 called
+  B-7 folded
+  B-8 folded
+  B-0 folded
+  B-1 folded
+  B-2 raised to 70
+  B-4 called
+  B-5 called
+  B-6 raised to 80
+  B-2 raised to 90
+  B-4 called
+  B-5 called
+  B-6 folded
+
+FLOP [As 4s Kc __ __]
+  B-4 bet 10
+  B-5 raised to 20
+  B-2 called
+  B-4 raised to 30
+  B-5 called
+  B-2 folded
+
+TURN [As 4s Kc Jd __]
+  B-4 folded
+  B-5 won 550
+---END OF HAND 85---
+
+
+---START OF HAND 86---
+Players:
+  B-5(SB) 730
+  B-6(BB) 130
+  B-7(UTG) 422
+  B-8(UTG+1) 1440
+  B-0(UTG+2) 96
+  B-1(LJ) 1527
+  B-2(HJ) 190
+  B-3(CO) 150
+  B-4(BTN) 215
+
+PREFLOP [__ __ __ __ __]
+  B-6 bet 10
+  B-7 called
+  B-8 folded
+  B-0 raised to 20
+  B-1 folded
+  B-2 called
+  B-3 called
+  B-4 called
+  B-5 folded
+  B-6 folded
+  B-7 folded
+
+FLOP [Qs 6d 9d __ __]
+  B-0 bet 10
+  B-2 raised to 20
+  B-3 called
+  B-4 called
+  B-0 folded
+
+TURN [Qs 6d 9d 8h __]
+  B-2 folded
+  B-3 checked
+  B-4 checked
+
+RIVER [Qs 6d 9d 8h Kd]
+  B-3 checked
+  B-4 checked
+
+SHOWDOWN [Qs 6d 9d 8h Kd]
+  B-3 had [6h 5d] ("Pair")
+  B-4 had [4s 5s] ("High Card")
+
+  B-3 won 175
+---END OF HAND 86---
+
+
+---START OF HAND 87---
+Players:
+  B-6(SB) 120
+  B-7(BB) 412
+  B-8(UTG) 1440
+  B-0(UTG+1) 66
+  B-1(UTG+2) 1527
+  B-2(LJ) 150
+  B-3(HJ) 285
+  B-4(CO) 175
+  B-5(BTN) 725
+
+PREFLOP [__ __ __ __ __]
+  B-7 bet 10
+  B-8 called
+  B-0 raised to 20
+  B-1 raised to 30
+  B-2 folded
+  B-3 called
+  B-4 called
+  B-5 called
+  B-6 called
+  B-7 called
+  B-8 folded
+  B-0 raised to 40
+  B-1 folded
+  B-3 folded
+  B-4 folded
+  B-5 called
+  B-6 raised to 50
+  B-7 called
+  B-0 called
+  B-5 called
+
+FLOP [2s 9d Ks __ __]
+  B-6 checked
+  B-7 folded
+  B-0 bet 10
+  B-5 raised to 20
+  B-6 raised to 30
+  B-0 called
+  B-5 raised to 40
+  B-6 folded
+
+TURN [2s 9d Ks 4h __]
+
+RIVER [2s 9d Ks 4h Ac]
+
+SHOWDOWN [2s 9d Ks 4h Ac]
+  B-0 had [8s 7h] ("High Card")
+  B-5 had [Tc 3h] ("High Card")
+
+  B-5 won 386
+---END OF HAND 87---
+
+
+---START OF HAND 88---
+Players:
+  B-7(SB) 362
+  B-8(BB) 1430
+  B-0(UTG) 100
+  B-1(UTG+1) 1497
+  B-2(UTG+2) 150
+  B-3(LJ) 255
+  B-4(HJ) 145
+  B-5(CO) 1021
+  B-6(BTN) 40
+
+PREFLOP [__ __ __ __ __]
+  B-8 bet 10
+  B-0 raised to 20
+  B-1 called
+  B-2 raised to 30
+  B-3 raised to 40
+  B-4 folded
+  B-5 called
+  B-7 called
+  B-8 called
+  B-0 called
+  B-1 folded
+  B-2 folded
+
+FLOP [Tc 4h 7h __ __]
+  B-7 checked
+  B-8 bet 10
+  B-0 raised to 20
+  B-3 folded
+  B-5 raised to 30
+  B-6 raised to 40
+  B-7 folded
+  B-8 folded
+  B-0 raised to 50
+  B-5 folded
+
+TURN [Tc 4h 7h 6d __]
+
+RIVER [Tc 4h 7h 6d 3c]
+
+SHOWDOWN [Tc 4h 7h 6d 3c]
+  B-0 had [5d 3d] ("Straight")
+  B-6 had [5s 8h] ("Straight")
+
+  B-6 won 290
+  B-0 won 90
+---END OF HAND 88---
+
+
+---START OF HAND 89---
+Players:
+  B-8(SB) 1380
+  B-0(BB) 100
+  B-1(UTG) 1477
+  B-2(UTG+1) 120
+  B-3(UTG+2) 215
+  B-4(LJ) 145
+  B-5(HJ) 951
+  B-6(CO) 290
+  B-7(BTN) 322
+
+PREFLOP [__ __ __ __ __]
+  B-0 bet 10
+  B-1 folded
+  B-2 called
+  B-3 called
+  B-4 folded
+  B-5 called
+  B-6 called
+  B-7 raised to 20
+  B-8 folded
+  B-0 called
+  B-2 raised to 30
+  B-3 folded
+  B-5 called
+  B-6 folded
+  B-7 called
+  B-0 raised to 40
+  B-2 folded
+  B-5 raised to 50
+  B-7 raised to 60
+  B-0 folded
+  B-5 raised to 70
+  B-7 folded
+  B-5 won 225
+---END OF HAND 89---
+
+
+---START OF HAND 90---
+Players:
+  B-0(SB) 60
+  B-1(BB) 1477
+  B-2(UTG) 90
+  B-3(UTG+1) 205
+  B-4(UTG+2) 145
+  B-5(LJ) 1106
+  B-6(HJ) 280
+  B-7(CO) 262
+  B-8(BTN) 1375
+
+PREFLOP [__ __ __ __ __]
+  B-1 bet 10
+  B-2 called
+  B-3 folded
+  B-4 raised to 20
+  B-5 folded
+  B-6 called
+  B-7 folded
+  B-8 called
+  B-0 raised to 30
+  B-1 called
+  B-2 called
+  B-4 raised to 40
+  B-6 called
+  B-8 folded
+  B-0 called
+  B-1 folded
+  B-2 folded
+
+FLOP [Kh 6d 9d __ __]
+  B-0 bet 10
+  B-4 called
+  B-6 called
+
+TURN [Kh 6d 9d 2c __]
+  B-0 bet 10
+  B-4 folded
+  B-6 raised to 20
+
+RIVER [Kh 6d 9d 2c Kc]
+
+SHOWDOWN [Kh 6d 9d 2c Kc]
+  B-0 had [Ah Qs] ("Pair")
+  B-6 had [7d 2d] ("Two pair")
+
+  B-6 won 260
+---END OF HAND 90---
+
+
+---START OF HAND 91---
+Players:
+  B-1(SB) 1447
+  B-2(BB) 60
+  B-3(UTG) 205
+  B-4(UTG+1) 95
+  B-5(UTG+2) 1106
+  B-6(LJ) 470
+  B-7(HJ) 262
+  B-8(CO) 1355
+  B-0(BTN) 100
+
+PREFLOP [__ __ __ __ __]
+  B-2 bet 10
+  B-3 raised to 20
+  B-4 called
+  B-5 raised to 30
+  B-6 raised to 40
+  B-7 raised to 50
+  B-8 raised to 60
+  B-0 called
+  B-1 folded
+  B-2 called
+  B-3 called
+  B-4 called
+  B-5 folded
+  B-6 raised to 70
+  B-7 called
+  B-8 folded
+  B-0 called
+  B-3 folded
+  B-4 called
+
+FLOP [2c Qs Js __ __]
+  B-4 bet 10
+  B-6 raised to 20
+  B-7 called
+  B-0 folded
+  B-4 folded
+
+TURN [2c Qs Js 3d __]
+  B-6 checked
+  B-7 bet 10
+  B-6 raised to 20
+  B-7 called
+
+RIVER [2c Qs Js 3d Jc]
+  B-6 bet 10
+  B-7 folded
+
+SHOWDOWN [2c Qs Js 3d Jc]
+  B-2 had [Kd 9d] ("Pair")
+  B-6 had [8d 8h] ("Two pair")
+
+  B-6 won 595
+---END OF HAND 91---
+
+
+---START OF HAND 92---
+Players:
+  B-2(SB) 100
+  B-3(BB) 145
+  B-4(UTG) 15
+  B-5(UTG+1) 1076
+  B-6(UTG+2) 945
+  B-7(LJ) 152
+  B-8(HJ) 1295
+  B-0(CO) 30
+  B-1(BTN) 1442
+
+PREFLOP [__ __ __ __ __]
+  B-3 bet 10
+  B-4 raised to 15
+  B-5 raised to 25
+  B-6 raised to 35
+  B-7 raised to 45
+  B-8 folded
+  B-0 called
+  B-1 raised to 55
+  B-2 folded
+  B-3 called
+  B-5 called
+  B-6 called
+  B-7 called
+
+FLOP [Tc Ts 7h __ __]
+  B-3 checked
+  B-5 bet 10
+  B-6 folded
+  B-7 called
+  B-1 called
+  B-3 folded
+
+TURN [Tc Ts 7h Th __]
+  B-5 checked
+  B-7 bet 10
+  B-1 called
+  B-5 called
+
+RIVER [Tc Ts 7h Th Jd]
+  B-5 folded
+  B-7 folded
+
+SHOWDOWN [Tc Ts 7h Th Jd]
+  B-4 had [7s 6h] ("Full house")
+  B-0 had [9c 4h] ("Three of a kind")
+  B-1 had [6s 8d] ("Three of a kind")
+
+  B-4 won 110
+  B-0 won 200
+  B-1 won 75
+---END OF HAND 92---
+
+
+---START OF HAND 93---
+Players:
+  B-3(SB) 90
+  B-4(BB) 110
+  B-5(UTG) 1001
+  B-6(UTG+1) 890
+  B-7(UTG+2) 77
+  B-8(LJ) 1295
+  B-0(HJ) 200
+  B-1(CO) 1442
+  B-2(BTN) 95
+
+PREFLOP [__ __ __ __ __]
+  B-4 bet 10
+  B-5 called
+  B-6 folded
+  B-7 called
+  B-8 raised to 20
+  B-0 called
+  B-1 raised to 30
+  B-2 raised to 40
+  B-3 called
+  B-4 raised to 50
+  B-5 called
+  B-7 folded
+  B-8 raised to 60
+  B-0 called
+  B-1 raised to 70
+  B-2 called
+  B-3 folded
+  B-4 folded
+  B-5 called
+  B-8 folded
+  B-0 raised to 80
+  B-1 folded
+  B-2 folded
+  B-5 folded
+  B-0 won 450
+---END OF HAND 93---
+
+
+---START OF HAND 94---
+Players:
+  B-4(SB) 60
+  B-5(BB) 931
+  B-6(UTG) 890
+  B-7(UTG+1) 67
+  B-8(UTG+2) 1235
+  B-0(LJ) 570
+  B-1(HJ) 1372
+  B-2(CO) 25
+  B-3(BTN) 50
+
+PREFLOP [__ __ __ __ __]
+  B-5 bet 10
+  B-6 called
+  B-7 folded
+  B-8 called
+  B-0 called
+  B-1 folded
+  B-2 folded
+  B-3 folded
+  B-4 called
+  B-5 checked
+
+FLOP [5s Jd As __ __]
+  B-4 folded
+  B-5 bet 10
+  B-6 folded
+  B-8 raised to 20
+  B-0 folded
+  B-5 folded
+  B-8 won 80
+---END OF HAND 94---
+
+
+---START OF HAND 95---
+Players:
+  B-5(SB) 911
+  B-6(BB) 880
+  B-7(UTG) 67
+  B-8(UTG+1) 1285
+  B-0(UTG+2) 560
+  B-1(LJ) 1372
+  B-2(HJ) 25
+  B-3(CO) 50
+  B-4(BTN) 50
+
+PREFLOP [__ __ __ __ __]
+  B-6 bet 10
+  B-7 folded
+  B-8 raised to 20
+  B-0 called
+  B-1 folded
+  B-2 raised to 25
+  B-3 folded
+  B-4 raised to 35
+  B-5 raised to 45
+  B-6 called
+  B-8 raised to 55
+  B-0 raised to 65
+  B-4 called
+  B-5 folded
+  B-6 called
+  B-8 called
+
+FLOP [6c 7c Qd __ __]
+  B-6 checked
+  B-8 bet 10
+  B-0 raised to 20
+  B-6 called
+  B-8 folded
+
+TURN [6c 7c Qd 3h __]
+  B-6 bet 10
+  B-0 called
+
+RIVER [6c 7c Qd 3h Tc]
+  B-6 bet 10
+  B-0 folded
+
+SHOWDOWN [6c 7c Qd 3h Tc]
+  B-6 had [Ts Ks] ("Pair")
+  B-2 had [Qc 8d] ("Pair")
+  B-4 had [2d Kh] ("High Card")
+
+  B-2 won 150
+  B-6 won 245
+---END OF HAND 95---
+
+
+---START OF HAND 96---
+Players:
+  B-6(SB) 1020
+  B-7(BB) 67
+  B-8(UTG) 1210
+  B-0(UTG+1) 465
+  B-1(UTG+2) 1372
+  B-2(LJ) 150
+  B-3(HJ) 50
+  B-4(CO) 100
+  B-5(BTN) 866
+
+PREFLOP [__ __ __ __ __]
+  B-7 bet 10
+  B-8 raised to 20
+  B-0 called
+  B-1 called
+  B-2 folded
+  B-3 called
+  B-4 called
+  B-5 folded
+  B-6 raised to 30
+  B-7 raised to 40
+  B-8 raised to 50
+  B-0 raised to 60
+  B-1 folded
+  B-3 called
+  B-4 raised to 70
+  B-6 called
+  B-7 called
+  B-8 raised to 80
+  B-0 folded
+  B-4 folded
+  B-6 raised to 90
+  B-8 folded
+
+FLOP [Kh Qh 6d __ __]
+
+TURN [Kh Qh 6d 3c __]
+
+RIVER [Kh Qh 6d 3c 6c]
+
+SHOWDOWN [Kh Qh 6d 3c 6c]
+  B-6 had [Jh 3s] ("Two pair")
+  B-7 had [8d 7d] ("Pair")
+  B-3 had [2h Ac] ("Pair")
+
+  B-6 won 437
+---END OF HAND 96---
+
+
+---START OF HAND 97---
+Players:
+  B-7(SB) 100
+  B-8(BB) 1130
+  B-0(UTG) 405
+  B-1(UTG+1) 1352
+  B-2(UTG+2) 150
+  B-3(LJ) 100
+  B-4(HJ) 30
+  B-5(CO) 866
+  B-6(BTN) 1367
+
+PREFLOP [__ __ __ __ __]
+  B-8 bet 10
+  B-0 folded
+  B-1 called
+  B-2 raised to 20
+  B-3 raised to 30
+  B-4 called
+  B-5 folded
+  B-6 called
+  B-7 raised to 40
+  B-8 raised to 50
+  B-1 folded
+  B-2 raised to 60
+  B-3 called
+  B-6 folded
+  B-7 raised to 70
+  B-8 called
+  B-2 folded
+  B-3 called
+
+FLOP [3h Kd 5c __ __]
+  B-7 bet 10
+  B-8 raised to 20
+  B-3 raised to 30
+  B-8 called
+
+TURN [3h Kd 5c 9d __]
+  B-7 bet 10
+  B-8 folded
+
+RIVER [3h Kd 5c 9d 2c]
+
+SHOWDOWN [3h Kd 5c 9d 2c]
+  B-7 had [7s Jh] ("High Card")
+  B-3 had [4d Jc] ("High Card")
+  B-4 had [Qd Qh] ("Pair")
+
+  B-4 won 190
+  B-7 won 230
+---END OF HAND 97---
+
+
+---START OF HAND 98---
+Players:
+  B-8(SB) 1030
+  B-0(BB) 405
+  B-1(UTG) 1342
+  B-2(UTG+1) 90
+  B-3(UTG+2) 100
+  B-4(LJ) 190
+  B-5(HJ) 866
+  B-6(CO) 1337
+  B-7(BTN) 240
+
+PREFLOP [__ __ __ __ __]
+  B-0 bet 10
+  B-1 called
+  B-2 folded
+  B-3 raised to 20
+  B-4 called
+  B-5 called
+  B-6 raised to 30
+  B-7 called
+  B-8 raised to 40
+  B-0 raised to 50
+  B-1 raised to 60
+  B-3 folded
+  B-4 folded
+  B-5 raised to 70
+  B-6 called
+  B-7 folded
+  B-8 called
+  B-0 folded
+  B-1 folded
+
+FLOP [8s 3c 8c __ __]
+  B-8 folded
+  B-5 checked
+  B-6 bet 10
+  B-5 called
+
+TURN [8s 3c 8c 4h __]
+  B-5 folded
+  B-6 won 410
+---END OF HAND 98---
+
+
+---START OF HAND 99---
+Players:
+  B-0(SB) 355
+  B-1(BB) 1282
+  B-2(UTG) 90
+  B-3(UTG+1) 80
+  B-4(UTG+2) 170
+  B-5(LJ) 786
+  B-6(HJ) 1667
+  B-7(CO) 210
+  B-8(BTN) 960
+
+PREFLOP [__ __ __ __ __]
+  B-1 bet 10
+  B-2 called
+  B-3 raised to 20
+  B-4 called
+  B-5 called
+  B-6 raised to 30
+  B-7 raised to 40
+  B-8 folded
+  B-0 folded
+  B-1 raised to 50
+  B-2 folded
+  B-3 folded
+  B-4 raised to 60
+  B-5 called
+  B-6 raised to 70
+  B-7 raised to 80
+  B-1 raised to 90
+  B-4 called
+  B-5 raised to 100
+  B-6 raised to 110
+  B-7 folded
+  B-1 raised to 120
+  B-4 folded
+  B-5 called
+  B-6 called
+
+FLOP [Kh Ks 2s __ __]
+  B-1 bet 10
+  B-5 folded
+  B-6 called
+
+TURN [Kh Ks 2s 4h __]
+  B-1 folded
+  B-6 won 585
+---END OF HAND 99---
+
