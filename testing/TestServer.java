@@ -12,7 +12,7 @@ public class TestServer {
 	public static void main(String[] args) throws InterruptedException {
 		int n = 6;
 		Collection<Player> players = new LinkedList<>();
-		for (int i = 0; i < n-1; i++) {
+		for (int i = 0; i < n-2; i++) {
 			Player p = new Player();
 			p.setUser(new Bot("B-" + i));
 			players.add(p);
@@ -28,7 +28,7 @@ public class TestServer {
 		
 		PrinterWriter pw = new PrinterWriter();
 		LocalFileWriter lfw = new LocalFileWriter(
-				"C:\\Users\\Bruker\\git\\poker-app\\test-hands\\Test_1.txt");
+				"C:\\Users\\jmtor\\git\\poker-app\\test-hands\\Test_1.txt");
 		ServerWriter sw = new ServerWriter();
 		sw.startAccepting();
 		
@@ -37,16 +37,16 @@ public class TestServer {
 		
 		Table table = new Table("TEST", n);
 		table.addPlayers(players);
-		TextObserver txt = new TextObserver(table, Arrays.asList(pw));
+		TextObserver txt = new TextObserver(table, Arrays.asList(pw, lfw, sw));
 
 		lfw.open();
 		txt.startObserving();
 		
 		table.start();
 		
-		sw.stopAccepting();
-		txt.stopObserving();
-		lfw.close();
+//		sw.stopAccepting();
+//		txt.stopObserving();
+//		lfw.close();
 		
 	}
 
