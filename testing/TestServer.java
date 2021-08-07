@@ -2,7 +2,6 @@ package testing;
 import java.util.Arrays;
 import java.util.Collection;
 import java.util.LinkedList;
-import java.util.concurrent.TimeUnit;
 
 import observing.*;
 import poker.*;
@@ -22,19 +21,19 @@ public class TestServer {
 		p1.setUser(new PrinterTextUser("Console-user"));
 		players.add(p1);
 		
-//		Player p2 = new Player();
-//		ServerTextUser stu = new ServerTextUser("Server-user");
-//		p2.setUser(stu);
-//		players.add(p2);
+		Player p2 = new Player();
+		ServerTextUser stu = new ServerTextUser("Server-user");
+		p2.setUser(stu);
+		players.add(p2);
 		
 		PrinterWriter pw = new PrinterWriter();
 		LocalFileWriter lfw = new LocalFileWriter(
-				"C:\\Users\\Bruker\\eclipse-workspace\\poker-application\\test-hands\\Test_1.txt");
+				"C:\\Users\\Bruker\\git\\poker-app\\test-hands\\Test_1.txt");
 		ServerWriter sw = new ServerWriter();
 		sw.startAccepting();
 		
 		System.out.println("Waiting for client...");
-//		stu.accept();
+		stu.accept();
 		
 		Table table = new Table("TEST", n);
 		table.addPlayers(players);
@@ -45,7 +44,7 @@ public class TestServer {
 		
 		table.start();
 		
-//		sw.stopAccepting();
+		sw.stopAccepting();
 		txt.stopObserving();
 		lfw.close();
 		
