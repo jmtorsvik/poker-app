@@ -45,7 +45,7 @@ public class ServerWriter implements Writer, Runnable {
 		try {
 			serverSocket = new ServerSocket(port);
 		} catch (IOException e) {
-			System.out.println("Error while initializing server socket on port " + port + ".");
+			System.out.println("ServerWriter: Error while initializing server socket on port " + port + ".");
 		}
 	}
 

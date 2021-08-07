@@ -35,7 +35,7 @@ public class ServerTextUser extends TextUser {
 		try {
 			serverSocket = new ServerSocket(port);
 		} catch (IOException e) {
-			System.out.println("Error while initializing server socket on port " + port + ".");
+			System.out.println("ServerTextUser: Error while initializing server socket on port " + port + ".");
 		}
 	}
 	
