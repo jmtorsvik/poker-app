@@ -1,13 +1,14 @@
-package observing;
+package poker_app.observer;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Collection;
 import java.util.List;
 
-import poker.Card;
-import poker.Player;
-import poker.Table;
-import poker.TableObserver;
+import poker_app.Table;
+import poker_app.game.Card;
+import poker_app.game.Player;
+import poker_app.writer.Writer;
 
 /**
  * A {@link TableObserver} that converts observations from a {@link Table} to text and shares this with multiple {@link Writer}s.
@@ -22,10 +23,20 @@ public class TextObserver extends TableObserver {
 	private final Collection<Writer> writers = new ArrayList<>();
 	
 	/**
-	 * Inits: {@link #table} as param table, {@link #filePath} as param filePath
+	 * Inits: {@link #table} as param table, {@link #writers} as a list of param writer
 	 * 
 	 * @param table    Table to be observed
-	 * @param filePath Path to file to be written to
+	 * @param writer   Writer to send observed text to
+	 */
+	public TextObserver(Table table, Writer writer) {
+		this(table, Arrays.asList(writer));
+	}
+	
+	/**
+	 * Inits: {@link #table} as param table, {@link #writers} as param writers
+	 * 
+	 * @param table    Table to be observed
+	 * @param writers  A collection of writers to send observed text to
 	 */
 	public TextObserver(Table table, Collection<Writer> writers) {
 		super(table);

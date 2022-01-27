@@ -1,4 +1,4 @@
-package users;
+package poker_app.user;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -16,8 +16,6 @@ import java.net.Socket;
  *
  */
 public class ServerTextUser extends TextUser {
-	/** Port to create server socket on. */
-	private final int port = 4998;
 	/** Socket where client connects to. */
 	private ServerSocket serverSocket;
 	/** For writing on {@link #serverSocket}. */
@@ -30,7 +28,7 @@ public class ServerTextUser extends TextUser {
 	 * <p>
 	 * Inits: {@link #serverSocket} as a {@link ServerSocket} on {@link #port}.
 	 */
-	public ServerTextUser(String name) {
+	public ServerTextUser(String name, int port) {
 		super(name);
 		try {
 			serverSocket = new ServerSocket(port);

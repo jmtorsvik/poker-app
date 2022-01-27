@@ -1,4 +1,4 @@
-package poker;
+package poker_app.game;
 
 import java.util.Arrays;
 import java.util.List;
@@ -83,7 +83,7 @@ public class Position {
 	// Setters/Getters:
 	// ----------------
 
-	protected int getPos() {
+	public int getPos() {
 		return pos;
 	}
 

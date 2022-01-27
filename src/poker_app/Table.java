@@ -1,13 +1,20 @@
-package poker;
+package poker_app;
 
 import java.util.Collection;
 import java.util.LinkedList;
 import java.util.List;
+
+import poker_app.game.Game;
+import poker_app.game.Player;
+import poker_app.game.Position;
+import poker_app.observer.TableObserver;
+import poker_app.user.User;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 
 /**
- * Represents a table for running games of poker of class {@link poker.Game}.
+ * Represents a table for running games of poker of class {@link poker_app.game.Game}.
  * <p>
  * Last modified: 6 April 2021
  * 

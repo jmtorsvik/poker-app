@@ -1,9 +1,13 @@
-package poker;
+package poker_app.observer;
 
 import java.util.List;
 
+import poker_app.Table;
+import poker_app.game.Game;
+import poker_app.game.Player;
+
 /**
- * Represents an observer of a {@link poker.Table} for handling all events at the table.
+ * Represents an observer of a {@link poker_app.Table} for handling all events at the table.
  * <p>
  * Last modified: 4 April 2021
  * 

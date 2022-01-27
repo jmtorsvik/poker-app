@@ -1,4 +1,4 @@
-package poker;
+package poker_app.game;
 
 import java.util.ArrayList;
 import java.util.Iterator;
@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.Collections;
 
 /**
- * Represents a deck of playing cards of class {@link poker.Card}.
+ * Represents a deck of playing cards of class {@link poker_app.game.Card}.
  * <p>
  * Last modified: 4 April 2021
  * 

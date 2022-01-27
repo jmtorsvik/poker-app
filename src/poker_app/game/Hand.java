@@ -1,4 +1,4 @@
-package poker;
+package poker_app.game;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -9,7 +9,7 @@ import java.util.List;
 
 /**
  * Represents a poker hand constructed as a combination of playing cards of
- * class {@link poker.Card}.
+ * class {@link poker_app.game.Card}.
  * <p>
  * Last modified: 4 April 2021
  * 

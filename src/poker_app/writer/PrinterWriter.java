@@ -1,4 +1,4 @@
-package observing;
+package poker_app.writer;
 
 /**
  * A {@link Writer} that writes to console.

@@ -1,4 +1,4 @@
-package poker;
+package poker_app.game;
 
 import java.util.ArrayList;
 import java.util.Collection;
@@ -7,6 +7,8 @@ import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Random;
+
+import poker_app.observer.TableObserver;
 
 
 /**
@@ -133,7 +135,7 @@ public class Game {
 	 * methods based on cases: 'p': {@link #preFlop()}, 'f': {@link #flop()}, 't':
 	 * {@link #turn()}, 'r': {@link #river()}, 's': {@link #showDown()}.
 	 */
-	protected void play() {
+	public void play() {
 		// Loop as long as game is not finished
 		while (!gameFinished) {
 			// Switch for what street the game is on
@@ -491,7 +493,7 @@ public class Game {
 	 * 
 	 * @param player Player that is checking or calling
 	 */
-	protected void checkOrCall(Player player) {
+	public void checkOrCall(Player player) {
 		// Amount to call
 		int plb = player.getLastBet();
 		int amount = lastBet - plb;
@@ -523,7 +525,7 @@ public class Game {
 	 * @param player Player that is betting
 	 * @param betTo  Amount player is betting to
 	 */
-	protected void bet(Player player, int betTo) {
+	public void bet(Player player, int betTo) {
 		// Control the bet
 		betTo = controlBet(player, betTo);
 
@@ -564,7 +566,7 @@ public class Game {
 	 * 
 	 * @param player Player that is folding
 	 */
-	protected void fold(Player player) {
+	public void fold(Player player) {
 		// Remove player from the game
 		pIterator.remove();
 		
@@ -742,7 +744,7 @@ public class Game {
 	}
 	
 	/**
-	 * Adds a {@link poker.TableObserver} for observing the game.
+	 * Adds a {@link poker_app.observer.TableObserver} for observing the game.
 	 * @param obs TableObserver to add
 	 */
 	public void addObserver(TableObserver obs) {

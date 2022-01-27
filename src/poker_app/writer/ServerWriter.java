@@ -1,4 +1,4 @@
-package observing;
+package poker_app.writer;
 
 import java.io.IOException;
 import java.io.PrintWriter;
@@ -23,9 +23,9 @@ public class ServerWriter implements Writer, Runnable {
 	 */
 	private final List<PrintWriter> printWriters = new ArrayList<>();
 	/** Port to create server socket on. */
-	private final int port = 4999;
+	private final int port;
 	/** Maximum number of connections on {@link #serverSocket}. */
-	private final int maxConns = 2;
+	private final int maxConns;
 
 	// NON-CONSTANTS
 	/** Socket where clients connects to. */
@@ -41,7 +41,9 @@ public class ServerWriter implements Writer, Runnable {
 	/**
 	 * Inits: {@link #serverSocket} as a {@link ServerSocket} on {@link #port}.
 	 */
-	public ServerWriter() {
+	public ServerWriter(int port, int maxConns) {
+		this.port = port;
+		this.maxConns = maxConns;
 		try {
 			serverSocket = new ServerSocket(port);
 		} catch (IOException e) {

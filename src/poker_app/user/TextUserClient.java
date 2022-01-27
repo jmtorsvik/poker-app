@@ -1,4 +1,4 @@
-package users;
+package poker_app.user;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -14,14 +14,22 @@ public class TextUserClient {
 			return new BufferedReader(in);
 	}
 	
-	public static void main(String[] args) throws IOException {
-		Socket gameSocket = new Socket("localhost", 4999);
-		Socket inputSocket = new Socket("localhost", 4998);
+	private static void launch() throws IOException {
+		Scanner scanner = new Scanner(System.in);
+		
+		System.out.print("Game port:");
+		int gamePort = Integer.parseInt(scanner.nextLine());
+		
+		System.out.print("Input port:");
+		int inputPort = Integer.parseInt(scanner.nextLine());
+		
+		
+		Socket gameSocket = new Socket("localhost", gamePort);
+		Socket inputSocket = new Socket("localhost", inputPort);
 		
 		BufferedReader gameReader = readerOnSocket(gameSocket);
 		BufferedReader inputReader = readerOnSocket(inputSocket);
 		
-		Scanner scanner = new Scanner(System.in);
 		PrintWriter printWriter = new PrintWriter(inputSocket.getOutputStream());
 		
 		while (true) {
@@ -40,6 +48,14 @@ public class TextUserClient {
 				printWriter.println(scanner.nextLine());
 				printWriter.flush();
 			}
+		}
+	}
+	
+	public static void main(String[] args) {
+		try {
+			launch();
+		} catch (Exception e) {
+			System.out.println(e.getStackTrace());
 		}
 	}
 	

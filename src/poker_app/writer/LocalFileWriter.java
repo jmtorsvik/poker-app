@@ -1,4 +1,4 @@
-package observing;
+package poker_app.writer;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;

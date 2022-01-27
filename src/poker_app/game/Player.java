@@ -1,7 +1,10 @@
-package poker;
+package poker_app.game;
 
 import java.util.ArrayList;
 import java.util.List;
+
+import poker_app.Table;
+import poker_app.user.User;
 
 /**
  * Represents a poker player.
@@ -109,7 +112,7 @@ public class Player {
 	 * Finds and {@link #hand} based on the cards on the board and the
 	 * {@link #cards} of the player.
 	 */
-	protected void findHand() {
+	public void findHand() {
 		// Cards to find hand of
 		List<Card> cardsInHand = new ArrayList<>(7);
 
@@ -147,7 +150,7 @@ public class Player {
 	 * @param amount Amount to adjust by
 	 * @see #adjustProfit(int)
 	 */
-	protected void adjustStack(int amount) {
+	public void adjustStack(int amount) {
 		stack += amount;
 		adjustProfit(amount);
 	}
@@ -165,7 +168,7 @@ public class Player {
 		return user;
 	}
 
-	protected void setSeat(int seat) {
+	public void setSeat(int seat) {
 		this.seat = seat;
 	}
 
@@ -173,7 +176,7 @@ public class Player {
 		return seat;
 	}
 
-	protected void setTable(Table table) {
+	public void setTable(Table table) {
 		this.table = table;
 	}
 
@@ -181,7 +184,7 @@ public class Player {
 		return table;
 	}
 
-	protected void setPosition(Position position) {
+	public void setPosition(Position position) {
 		this.position = position;
 	}
 
@@ -189,7 +192,7 @@ public class Player {
 		return position;
 	}
 
-	protected void setGame(Game game) {
+	public void setGame(Game game) {
 		this.game = game;
 	}
 
@@ -201,7 +204,7 @@ public class Player {
 		return hand;
 	}
 
-	protected void setCards(Card[] cards) {
+	public void setCards(Card[] cards) {
 		this.cards = cards;
 	}
 
@@ -209,11 +212,11 @@ public class Player {
 		return cards;
 	}
 
-	protected void setIsBigBlind(boolean isBigBlind) {
+	public void setIsBigBlind(boolean isBigBlind) {
 		this.isBigBlind = isBigBlind;
 	}
 
-	protected void setStack(int stack) {
+	public void setStack(int stack) {
 		this.stack = stack;
 	}
 
@@ -225,7 +228,7 @@ public class Player {
 		return profit;
 	}
 
-	protected void setLastBet(int lastBet) {
+	public void setLastBet(int lastBet) {
 		this.lastBet = lastBet;
 	}
 
@@ -237,7 +240,7 @@ public class Player {
 		return isBigBlind;
 	}
 
-	protected void setSittingOut(boolean sittingOut) {
+	public void setSittingOut(boolean sittingOut) {
 		this.sittingOut = sittingOut;
 	}
 

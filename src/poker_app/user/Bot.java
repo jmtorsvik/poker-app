@@ -1,13 +1,12 @@
-package users;
+package poker_app.user;
 
 import java.util.Random;
 import java.util.concurrent.TimeUnit;
 
-import poker.User;
-import poker.Player;
+import poker_app.game.Player;
 
 /**
- * Represents a non-human user as a subclass of {@link poker.User} that acts
+ * Represents a non-human user as a subclass of {@link poker_app.user.User} that acts
  * at random when on action.
  * <p>
  * Last modified: 4 April 2021

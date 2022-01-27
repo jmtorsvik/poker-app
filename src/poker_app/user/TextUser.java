@@ -1,11 +1,10 @@
-package users;
+package poker_app.user;
 
 import java.util.Arrays;
 import java.util.Collection;
 
-import poker.Card;
-import poker.User;
-import poker.Player;
+import poker_app.game.Card;
+import poker_app.game.Player;
 
 /**
  * Represents a human user that gives input using text. Subclass of {@link User}.
@@ -28,7 +27,7 @@ public abstract class TextUser extends User {
 	public void onAction(Player player) {
 		validPlayer(player);
 
-		// Take an user input which should start with either 'c', 'b', 'f' which
+		// Take a user input which should start with either 'c', 'b', 'f' which
 		// represents the actions check/call, bet and fold respectively from the player
 		Card[] cards = player.getCards();
 		String line = "\n(INPUT) " + this + " [" + cards[0] + " " + cards[1] + "]" + ", it's your action: ";

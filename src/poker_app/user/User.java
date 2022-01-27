@@ -1,7 +1,9 @@
-package poker;
+package poker_app.user;
 
 import java.util.Collection;
 import java.util.LinkedList;
+
+import poker_app.game.Player;
 
 /**
  * Represents a user that can control multiple players.

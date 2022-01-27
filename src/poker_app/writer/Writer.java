@@ -1,4 +1,4 @@
-package observing;
+package poker_app.writer;
 
 /**
  * Has one method {@link #write(String line)} that writes a line somewhere.
