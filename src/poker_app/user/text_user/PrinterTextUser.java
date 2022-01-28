@@ -1,4 +1,4 @@
-package poker_app.user;
+package poker_app.user.text_user;
 
 import java.util.Scanner;
 

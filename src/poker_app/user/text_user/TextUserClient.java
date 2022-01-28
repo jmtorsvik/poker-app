@@ -1,4 +1,4 @@
-package poker_app.user;
+package poker_app.user.text_user;
 
 import java.io.BufferedReader;
 import java.io.IOException;

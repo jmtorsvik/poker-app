@@ -1,10 +1,11 @@
-package poker_app.user;
+package poker_app.user.text_user;
 
 import java.util.Arrays;
 import java.util.Collection;
 
 import poker_app.game.Card;
 import poker_app.game.Player;
+import poker_app.user.User;
 
 /**
  * Represents a human user that gives input using text. Subclass of {@link User}.

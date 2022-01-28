@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 import poker_app.game.Player;
 import poker_app.observer.TextObserver;
-import poker_app.user.ServerTextUser;
+import poker_app.user.text_user.ServerTextUser;
 import poker_app.writer.ServerWriter;
 
 public class TableServer {
