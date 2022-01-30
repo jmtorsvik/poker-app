@@ -1,4 +1,4 @@
-package poker_app.user.graphic_user.client;
+package poker_app.user.graphic_user.client.graphics;
 
 import java.awt.Graphics;
 import java.awt.Image;
@@ -8,7 +8,7 @@ import javax.swing.JPanel;
 
 public class BackgroundPanel extends JPanel {
 	private Image img = Toolkit.getDefaultToolkit().getImage("assets\\images\\poker_table.jpg");
-
+	
 	@Override
 	public void paintComponent(Graphics g) {
 		super.paintComponent(g);

@@ -2,14 +2,16 @@ package poker_app.user.graphic_user.client;
 
 import javax.swing.SwingUtilities;
 
+import poker_app.user.graphic_user.client.graphics.TableFrame;
+
 public class GraphicUserClient {
-	private static MainFrame mainFrame;
+	private static TableFrame tableFrame;
 	
 	private static void launch() {
 		SwingUtilities.invokeLater(new Runnable() {
 			@Override
 			public void run() {
-				mainFrame = new MainFrame();
+				tableFrame = new TableFrame();
 			}
 		});
 	}
@@ -19,7 +21,7 @@ public class GraphicUserClient {
 		SwingUtilities.invokeLater(new Runnable() {
 			@Override
 			public void run() {
-				mainFrame.setTitle("TEST");
+				tableFrame.setTitle("TEST");
 			}
 		});
 	}
