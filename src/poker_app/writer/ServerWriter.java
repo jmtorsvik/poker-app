@@ -22,8 +22,6 @@ public class ServerWriter implements Writer, Runnable {
 	 * {@link #serverSocket}.
 	 */
 	private final List<PrintWriter> printWriters = new ArrayList<>();
-	/** Port to create server socket on. */
-	private final int port;
 	/** Maximum number of connections on {@link #serverSocket}. */
 	private final int maxConns;
 
@@ -42,7 +40,6 @@ public class ServerWriter implements Writer, Runnable {
 	 * Inits: {@link #serverSocket} as a {@link ServerSocket} on {@link #port}.
 	 */
 	public ServerWriter(int port, int maxConns) {
-		this.port = port;
 		this.maxConns = maxConns;
 		try {
 			serverSocket = new ServerSocket(port);

@@ -1,15 +1,22 @@
 package poker_app.observer;
 
+import java.io.IOException;
+import java.net.ServerSocket;
 import java.util.List;
 
 import poker_app.Table;
 import poker_app.game.Player;
 
 public class GraphicObserver extends TableObserver {
-
-	public GraphicObserver(Table table) {
+	private ServerSocket serverSocket;
+	
+	public GraphicObserver(Table table, int port) {
 		super(table);
-		// TODO Auto-generated constructor stub
+		try {
+			serverSocket = new ServerSocket(port);
+		} catch (IOException e) {
+			System.out.println("ServerWriter: Error while initializing server socket on port " + port + ".");
+		}
 	}
 
 	@Override
