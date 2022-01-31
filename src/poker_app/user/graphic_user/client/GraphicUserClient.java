@@ -2,8 +2,6 @@ package poker_app.user.graphic_user.client;
 
 import javax.swing.SwingUtilities;
 
-import poker_app.user.graphic_user.client.graphics.TableFrame;
-
 public class GraphicUserClient {
 	private static TableFrame tableFrame;
 	
@@ -11,7 +9,7 @@ public class GraphicUserClient {
 		SwingUtilities.invokeLater(new Runnable() {
 			@Override
 			public void run() {
-				tableFrame = new TableFrame();
+				tableFrame = new TableFrame(6);
 			}
 		});
 	}
