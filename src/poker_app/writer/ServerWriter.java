@@ -15,7 +15,7 @@ import java.util.List;
  * @author Jakob Martin Torsvik
  *
  */
-public class ServerWriter implements Writer, Runnable {
+public class ServerWriter implements Writer {
 	// CONSTANTS
 	/**
 	 * List of {@link PrintWriter}s for writing to connections on
@@ -56,7 +56,19 @@ public class ServerWriter implements Writer, Runnable {
 		accepting = true;
 		
 		// Initialize and start acceptThread
-		acceptThread = new Thread(this);
+		acceptThread = new Thread(new Runnable() {
+			@Override
+			public void run() {
+				while (accepting && printWriters.size() < maxConns) {
+					try {
+						Socket s = serverSocket.accept();
+						printWriters.add(new PrintWriter(s.getOutputStream()));
+					} catch (IOException e) {
+						System.out.println("Error while accepting on server socket.");
+					}
+				}
+			}
+		});
 		acceptThread.start();
 	}
 	
@@ -79,21 +91,6 @@ public class ServerWriter implements Writer, Runnable {
 			acceptThread.join();
 		} catch (InterruptedException e) {
 			System.out.println("Error while joining thread " + acceptThread + ".");
-		}
-	}
-	
-	/**
-	 * Runs {@link ServerSocket#accept()} to look for and accept connections.
-	 */
-	@Override
-	public void run() {
-		while (accepting && printWriters.size() < maxConns) {
-			try {
-				Socket s = serverSocket.accept();
-				printWriters.add(new PrintWriter(s.getOutputStream()));
-			} catch (IOException e) {
-				System.out.println("Error while accepting on server socket.");
-			}
 		}
 	}
 
